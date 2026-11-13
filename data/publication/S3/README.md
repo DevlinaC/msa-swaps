@@ -19,9 +19,7 @@ Each defined query/donor comparison contributes once to its mean. A is the seque
 
 GREMLIN donor medians are 0.999308, 0.999031, and 0.998209; MSA Transformer donor medians are 0.658448, 0.756525, and 0.816888. Pair-level values, quartiles, ranges, and length-class summaries are retained in the CSVs. No inferential p-values are reported: residue pairs are dependent, and the 362 swaps repeatedly use the same 34 proteins.
 
-![Combined Jaccard and Pearson contact analysis](contact_agreement_combined.png)
-
-The [combined vector PDF](contact_agreement_combined.pdf) includes the unchanged item 2 GREMLIN Jaccard distributions above the new Pearson distributions. Boxes show interquartile ranges, lines indicate medians, whiskers extend to the most extreme values within 1.5 interquartile ranges, and points show observations beyond the whiskers. Sample counts above each box reflect defined values.
+Current publication exports are in [Figure S3](../../../figures/S3/README.md). The older combined Jaccard/Pearson report is preserved in the local-only archive; it is not the current S3 layout.
 
 The combined artwork above is the original analysis export. For current manuscript S3 plotting commands, use the [figure guide](../../../docs/FIGURES.md). Preserved calculation scripts require the original external data layout; they are not portable plotting entry points.
 
@@ -101,13 +99,13 @@ Native GREMLIN gap-mask alignments have the same provenance limitation as item 2
 | [comparisons.csv](comparisons.csv) | All 4,344 primary comparisons, statuses, L, eligible/selected counts, cutoffs, offsets, and diagnostic correlations |
 | [summary.csv](summary.csv) | Pooled and length-class summaries, with separate defined/undefined counts |
 | [donor_query_direction.csv](donor_query_direction.csv) | Within-pair A/B directions for primary, whole-universe, and unshifted correlations |
-| [selected_residue_pairs.csv.gz](selected_residue_pairs.csv.gz) | 588,855 selected residue-pair records with both scores and top-L membership flags |
+| `selected_residue_pairs.csv.gz` (local-only) | 588,855 selected residue-pair records with both scores and top-L membership flags |
 | [input_audit.csv](input_audit.csv) | Dimensions, gap retention, score-table counts, and matrix-symmetry checks |
 | [provenance.json](provenance.json) | Input/source hashes, methods, versions, output checksums, limitations, and numerical validation |
 | [COMPLETE.json](COMPLETE.json) | Completion marker and provenance checksum |
-| [serialized_validation.json](serialized_validation.json) | Independent recalculation from exported pair scores, plus output-checksum and link checks |
+| `serialized_validation.json` (local-only) | Independent recalculation from exported pair scores, plus output-checksum and link checks |
 | [Analysis script](../../../provenance/source_scripts/contact_analysis/analyze_topl_pearson.py) | Reproducible analysis and combined figure |
-| [Boundary tests](../../../provenance/source_scripts/contact_analysis/test_topl_pearson.py) | Pair identity, ties, undefined cases, affine scaling, shifted joins, and center-cropping checks |
+| Boundary tests (local-only source review) | Pair identity, ties, undefined cases, affine scaling, shifted joins, and center-cropping checks |
 
 Four boundary tests passed. SciPy Pearson coefficients agree with NumPy correlations within `1.23 × 10⁻¹⁵` across primary and diagnostic calculations. Independent recalculation from the exported residue-pair scores reproduces all 4,306 defined primary correlations within `6.67 × 10⁻¹⁶`, with pair identities, separation, membership counts, and output checksums verified. Coverage checks enforce all 362 pairs, two methods, two references, and three cutoffs. Input checks reject invalid matrices, nonfinite scores, inconsistent dimensions/indices, missing files, and changed GREMLIN inputs. The combined figure was visually inspected and its title spacing corrected without changing numerical results.
 
@@ -130,3 +128,5 @@ The script uses one numerical thread and requires a new output directory. Python
 “We additionally compared continuous contact scores over the union of the top-L residue pairs from each input at sequence separations |i−j| ≥6, ≥12, and ≥24. Donor-associated similarity generally persisted across these settings. Mean donor correlations were 0.935–0.949 for GREMLIN and 0.633–0.746 for MSA Transformer. GREMLIN donor correlations exceeded query correlations in all jointly evaluable comparisons (356, 352, and 340 pairs), while MSA Transformer showed this pattern in 362, 361, and 359 of 362 pairs, respectively. GREMLIN comparisons retained the previously selected global offsets; comparisons lacking L shared eligible pairs were reported as undefined. Negative query correlations under top-L-union selection were accompanied by near-zero query correlations across all eligible pairs, indicating that the negative values depend on contact selection.”
 
 These results address contact-score agreement, not agreement with AlphaFold structural contacts or AlphaFold's internal representations. Item 1 remains pending. The manuscript itself has not been edited.
+
+The preserved original calculation script includes its boundary-test file in provenance collection. That test suite is local-only; raw recalculation with this original source requires the complete source package. The portable S3 plotting command does not need it.

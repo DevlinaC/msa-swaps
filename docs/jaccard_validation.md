@@ -50,10 +50,10 @@ Reproduction does not independently validate biological residue correspondence, 
 
 This report describes the historical random spot check with seed 20261030, 10 pairs per nominal size class, and two additional repaired pairs. The audit ran with Python 3.11.15, NumPy 2.2.6, pandas 2.3.3, SciPy 1.17.1, and scikit-learn 1.9.0. The original full audit and input checksums remain in the working archive; all per-comparison results and summary values are included here.
 
-The minimal repository includes four illustrative raw-data pairs rather than all 32 audit pairs. Run `python scripts/validate_examples.py` from its root to reproduce those examples and verify their scores against the complete result tables. This validates the packaged calculation; it is not a rerun of the entire random sample.
+The original minimal package contained four illustrative raw-data pairs rather than all 32 audit pairs. These historical inputs and result tables are now local-only and excluded from Git. With the complete local historical package, `python scripts/validate_examples.py` reproduces those examples; this command is not supported by the compact Git checkout and is not a rerun of the entire random sample.
 
-- [All 128 comparisons](../data/validation/comparisons.csv)
-- [Audit summary](../data/validation/summary.csv)
+- All 128 comparisons: `data/validation/comparisons.csv` (local-only historical data)
+- Audit summary: `data/validation/summary.csv` (local-only historical data)
 - [Portable contact calculation](../scripts/compute_contacts.py)
 - [Example validation](../scripts/validate_examples.py)
 

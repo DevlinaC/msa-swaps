@@ -6,7 +6,6 @@ From the repository root:
 
 ```bash
 python workflows/pairformer/scripts/plot_summary.py --root workflows/pairformer
-python workflows/pairformer/scripts/test_full.py
 ```
 
 Raw matrix reanalysis is documented in `../../docs/FIGURES.md`. For inference, the runner still requires the pinned upstream package/weights and the pilot environment/control artifacts referenced by its `--pilot` argument. Those weights/environments are not redistributed. Do not treat plotting success as validation of a fresh inference environment. Preparation from original unsampled MSAs also requires the external source inventory paths.

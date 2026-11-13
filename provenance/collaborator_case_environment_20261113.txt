@@ -1,0 +1,7 @@
+python=3.11.15 | packaged by conda-forge | (main, Jun 11 2026, 03:29:05) [Clang 19.1.7 ]
+runner_sha256=7eecff3fbf6b6d96e9c5292f2d18079063a292e7475be5c2560fd050fd47dae9
+import_manifest_sha256=3340905a8a37adb76517b844f9d32e557986359e527941da5d79199dc75156a1
+numpy=2.2.6
+scipy=1.17.1
+matplotlib=3.11.0
+biopython=1.78

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Validate frozen source bytes, analysis populations and current inference settings."""
 import hashlib
+import csv
 import json
 from pathlib import Path
 import pandas as pd
@@ -9,9 +10,17 @@ ROOT=Path(__file__).resolve().parents[1]
 def require(ok,message):
     if not ok: raise ValueError(message)
 def main():
+    # Original source digests remain authoritative after local archival moves.
+    manifest=ROOT/'provenance/archive_manifest_20261113.csv'
+    archived={}
+    if manifest.is_file():
+        with manifest.open(newline='') as handle:
+            archived={row['original_path']: row['archive_path'] for row in csv.DictReader(handle)}
     frozen=json.loads((ROOT/'provenance/protected_data_sha256.json').read_text())
     for rel,digest in frozen.items():
         path=ROOT/rel
+        if not path.is_file() and rel in archived:
+            path=ROOT/archived[rel]
         require(path.is_file(),'Missing '+rel)
         require(hashlib.sha256(path.read_bytes()).hexdigest()==digest,'Changed scientific source '+rel)
     data=ROOT/'data/publication'

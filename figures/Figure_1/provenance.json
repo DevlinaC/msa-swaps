@@ -1,9 +1,36 @@
 {
-  "source_document": "Manuscript/MSA_swap_paper_edited.docx",
-  "source_document_sha256": "a58cdcde531c343acf265d9a32fec2dfd0ff1c6a4a6b3fd2fe27455185e66144",
-  "embedded_member": "word/media/image1.emf",
-  "embedded_sha256": "8771998d5bc9a2950b1dc2258f31a5899b6e46a73c650de2c47f7ddadd6eb6d7",
-  "preview_sha256": "f5919f8a720b09dd3caf8f6be6c84d94e3f38c86dc025815c814fa6d462be93d",
-  "preview_origin": "Previously extracted and rendered during November 12 manuscript review; document checksum reverified November 13.",
-  "status": "Manuscript-derived preview, not the final author-supplied editable/high-resolution master."
+  "current": {
+    "source_pdf": "Figure_1.pdf",
+    "source_pdf_sha256": "baeacb7947dbf370be630f80be94b2aedc878b9fe2c80015f896ec0219feb4a4",
+    "source_origin": "Manuscript/OneDrive_1_11-13-2026/Fig1/Fig1.pdf",
+    "editable_source": "source/Fig1.pptx",
+    "editable_source_sha256": "dd4c5a3e701d4d769d44576ce7c3318eaa3321dcbc30054ea0a89f331f533493",
+    "preview": "Figure_1.png",
+    "preview_sha256": "0822c0b9f898b25cb9c3d3351dab4482e842ad0c214287ec7d6d1431ba26aee1",
+    "page_count": 1,
+    "page_size_points": [
+      1296,
+      540
+    ],
+    "preview_size_pixels": [
+      2592,
+      1080
+    ],
+    "render_scale": 2,
+    "renderer": "pypdfium2 5.11.0",
+    "pillow_version": "12.2.0",
+    "visual_check": "Greek alpha/beta, MSA braces, labels, contact maps and structure panels inspected; no cropping or content edits.",
+    "status": "PNG rendered from the user-supplied PowerPoint PDF export; editable source retained unchanged."
+  },
+  "historical_manuscript_preview": {
+    "filename": "../../archive/redundant_20261113/figures/Figure_1/Figure_1_manuscript_preview.png",
+    "source_document": "Manuscript/MSA_swap_paper_edited.docx",
+    "source_document_sha256": "a58cdcde531c343acf265d9a32fec2dfd0ff1c6a4a6b3fd2fe27455185e66144",
+    "embedded_member": "word/media/image1.emf",
+    "embedded_sha256": "8771998d5bc9a2950b1dc2258f31a5899b6e46a73c650de2c47f7ddadd6eb6d7",
+    "preview_sha256": "f5919f8a720b09dd3caf8f6be6c84d94e3f38c86dc025815c814fa6d462be93d",
+    "preview_origin": "Previously extracted and rendered during November 12 manuscript review; document checksum reverified November 13.",
+    "status": "Manuscript-derived preview, not the final author-supplied editable/high-resolution master.",
+    "availability": "local-only ignored archive"
+  }
 }

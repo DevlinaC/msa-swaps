@@ -25,10 +25,10 @@ The earlier `MSA_swap_paper_methods_reviewed_20261106.docx` uses a different tit
 | Item | Current status and completion requirement |
 | --- | --- |
 | Publication or preprint | Status, venue, date and DOI are not established by the reviewed local drafts. Replace the provisional citation when confirmed. |
-| Public repository URL | No confirmed remote URL is recorded in this local package. The proposed name in the publishing guide is not a published destination. |
+| Repository URL | [DevlinaC/msa-swaps](https://github.com/DevlinaC/msa-swaps) is the private collaboration destination. Public release remains pending. |
 | Versioned data archive | Permanent URL/DOI, release version, file manifest and checksums remain pending. Specify which inputs are in Git and which must be downloaded. |
 | Data and figure terms | No project-wide data/figure license is established here. Authors must choose applicable release terms and preserve source-specific attribution; the code MIT license does not supply these terms. |
 | Author identifiers | ORCIDs have not been verified; omit them until confirmed by the authors. |
 | Reproduction release | Restore approved excluded inputs or supply the archive, then validate a fresh checkout against the documented commands. Current local validation does not establish checkout completeness. |
 
-These items are pending confirmation, not assertions that a publication or archive cannot exist elsewhere. See [upload exclusions](PUBLISHING.md#temporary-exclusions-before-deciding-what-to-share) for the current packaging limits.
+These items are pending confirmation, not assertions that a publication or archive cannot exist elsewhere. See [upload exclusions](GIT_DATA_POLICY.md) for the current packaging limits.

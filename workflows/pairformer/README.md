@@ -88,7 +88,7 @@ Configuration details are stated in this legend rather than in the plot titles.
 - [Paired configuration comparison](results/configuration_comparison/summary.csv)
 - [Collaborator guide](COLLABORATOR_GUIDE.md) · [Pipeline details](PIPELINE_DETAILS.md)
 - [Swapped matrix index](inventory/swapped_matrices.tsv) · [All matrix index](inventory/all_matrices.tsv)
-- [Weighting audit](results/WEIGHTING_AUDIT.json) · [Protocol reconciliation](provenance/protocol_reconciliation.json)
+- Local-only records: `results/WEIGHTING_AUDIT.json` and `provenance/protocol_reconciliation.json` (excluded from the compact Git package).
 
 Biowulf: `/data/chakravartyd2/for_lydia_project/msa_pairformer_512_unweighted/`.
 All 396 new matrices were generated in GPU job 35667433.

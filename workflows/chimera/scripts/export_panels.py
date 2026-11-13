@@ -40,5 +40,6 @@ plt.close(fig)
 sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
 inputs=[O/'data/models.json',O/'data/summary.json',O/'renders/AF2_full.png',O/'renders/AF3_full.png']
 manifest = 'panel_exports.json' if args.panel == 'all' else f'panel_{args.panel}_exports.json'
+(O/'provenance').mkdir(parents=True, exist_ok=True)
 (O/'provenance'/manifest).write_text(json.dumps({'created':datetime.now(timezone.utc).isoformat(),'inputs':{str(p.relative_to(O)):sha(p) for p in inputs},'outputs':{str(p.relative_to(O)):sha(p) for p in outputs},'scripts':{p.name:sha(p) for p in Path(__file__).parent.glob('*.py')},'note':'Same layout, values, colors and structure images as original plot; export bounds isolate each display. Original combined files are unchanged.'},indent=2)+'\n')
 print(f'Exported {len(outputs)} files for panel selection: {args.panel}.')

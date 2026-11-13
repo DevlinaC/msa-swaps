@@ -1,0 +1,13 @@
+representation,A,B,pearson_R,jaccard,jaccard_type,strict_topL_jaccard,A_contact_count,B_contact_count,shared_or_credited_count,union_count
+MSA Pairformer,RfaH_1,NusG_1,0.9643423808932617,0.9365079365079365,rank-tolerant top-L,0.6825396825396826,53,53,59,63
+AlphaFold structure,RfaH_1,NusG_1,0.07633440133827749,0.043243243243243246,exact structural contact-set,,63,130,8,185
+MSA Pairformer,RfaH_1,NusG_2,0.9723016311157412,0.9841269841269841,rank-tolerant top-L,0.6825396825396826,53,53,62,63
+AlphaFold structure,RfaH_1,NusG_2,0.07917292365909934,0.0449438202247191,exact structural contact-set,,63,123,8,178
+MSA Pairformer,RfaH_2,NusG_1,0.9446993495748871,0.9384615384615385,rank-tolerant top-L,0.6307692307692307,53,53,61,65
+AlphaFold structure,RfaH_2,NusG_1,0.0739758353457204,0.0425531914893617,exact structural contact-set,,66,130,8,188
+MSA Pairformer,RfaH_2,NusG_2,0.9579217437747203,0.9523809523809523,rank-tolerant top-L,0.6825396825396826,53,53,60,63
+AlphaFold structure,RfaH_2,NusG_2,0.07676693783776785,0.04419889502762431,exact structural contact-set,,66,123,8,181
+MSA Pairformer,RfaH_1,RfaH_2,0.96682234244275,0.9836065573770492,rank-tolerant top-L,0.7377049180327869,53,53,60,61
+MSA Pairformer,NusG_1,NusG_2,0.970657665864896,1.0,rank-tolerant top-L,0.7096774193548387,53,53,62,62
+AlphaFold structure,RfaH_1,RfaH_2,0.8828660155152401,0.7916666666666666,exact structural contact-set,,63,66,57,72
+AlphaFold structure,NusG_1,NusG_2,0.9480329418282034,0.9022556390977443,exact structural contact-set,,130,123,120,133

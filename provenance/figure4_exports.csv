@@ -1,0 +1,12 @@
+destination,bytes,sha256,origin
+figures/Figure_4/Figure_4.pdf,942013,9d9ef8fa87e4284a5e01ebe0b9cf4e96b993e9aa19f3c8dc67af10d270a0a4c9,/Users/chakravartyd2/Documents/AF_paper/Lydia_summer_student/Manuscript/OneDrive_1_11-13-2026/Fig4/Fig4.pdf
+figures/Figure_4/Figure_4.png,1216090,f7de7313c955cbc105633dcdd9fb79f955a50df8efab5681f7cdd5d407adcdbe,Figure_4.pdf page 1; pypdfium2 5.11.0; scale=2; 2304x2448 pixels
+figures/Figure_4/results/BCCIP_alpha_beta_contact_similarity_MSA_registered_sep6_table.png,147055,bfd4f81a83d00d137fb9036571d0e6c44e1cb682d24f5e005292693a0199c3f2,scripts/reproduce_case_studies.py --case figure4; verified replay 2026-11-13
+figures/Figure_4/results/BCCIP_alpha_beta_contact_similarity_MSA_registered_sep6_table.svg,53169,0fe60d5b108a66eb98a6c0ce9d8b8f7ccd5fdcf06073099ad4cda3e932a29d28,scripts/reproduce_case_studies.py --case figure4; verified replay 2026-11-13
+figures/Figure_4/results/DZZB_mk2h_contact_similarity_sep6_separate_channels_table.png,81241,fbef71ec219345b461ef40119dcbd2c89a88fb2f368ac0176af505e677c12549,scripts/reproduce_case_studies.py --case figure4; verified replay 2026-11-13
+figures/Figure_4/results/DZZB_mk2h_contact_similarity_sep6_separate_channels_table.svg,22149,3fcf5977f3a40ec673057c570595903fc76a53892960d7f1470e828ed2bee07a,scripts/reproduce_case_studies.py --case figure4; verified replay 2026-11-13
+figures/Figure_4/results/GB98_T25V_T25E_contact_similarity_sep6_table.png,79212,8b7bb610221a38ab890f1a93aebcb2a9aea2d1732924ccee9fc1b8bd72e0c0dd,scripts/reproduce_case_studies.py --case figure4; verified replay 2026-11-13
+figures/Figure_4/results/GB98_T25V_T25E_contact_similarity_sep6_table.svg,20648,8641da763383094740a885921973139c02fe69e5b3eba9d38779905a16702c80,scripts/reproduce_case_studies.py --case figure4; verified replay 2026-11-13
+figures/Figure_4/results/RfaH_NusG_contact_similarity_CTDinvolving_sep6_table.png,77294,28958858b9b82729c936f8049ade8df01e8fd42c11b1740875e7add9008d9228,scripts/reproduce_case_studies.py --case figure4; verified replay 2026-11-13
+figures/Figure_4/results/RfaH_NusG_contact_similarity_CTDinvolving_sep6_table.svg,19767,25158949c9cfaaf5f0677b9e42b8fb1220631751d307f4bb89f0682d35907049,scripts/reproduce_case_studies.py --case figure4; verified replay 2026-11-13
+provenance/figure4_validation_20261113.csv,869,4cef430de35cf3aad1bcdcc93dc86e4ed7ab2e2c143c61d7e9958a775a42c693,Figure 4 replay 2026-11-13; rtol=1e-10 atol=1e-12

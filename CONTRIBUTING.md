@@ -1,6 +1,6 @@
 # Collaborating on this manuscript repository
 
-See [collaborator notes and repository status](docs/COLLABORATOR_NOTES.md) for the manuscript version, outstanding files, temporary exclusions and release decisions.
+See [figure coverage and repository status](docs/FIGURES.md) for the manuscript version, outstanding files, temporary exclusions and release decisions.
 
 Start with `docs/FIGURES.md` for current numbering and coverage. The old local chimera folder was called Figure_S7; it is S9 in the current manuscript. S7 now refers to GA95/GA95-L45Y.
 
@@ -17,4 +17,4 @@ For numerical changes, validate counts, unique keys, selection/mapping and a rep
 
 Full raw AF ensembles and other bulky datasets should go in an agreed versioned data archive; put the archive manifest, checksums and permanent links here. Original project code uses the [MIT License](LICENSE). Preserve upstream licenses and notices, and document separate data/asset terms as described in [licensing scope](docs/LICENSING.md).
 
-Suggested workflow: create the repository under DevlinaC (proposed name `msa-swaps`), keep it private during co-author revision, invite Lauren's GitHub account with write access, and use a branch/pull request for scientific changes. No repository or collaborator invitation has been created by this local update.
+The collaboration repository is `DevlinaC/msa-swaps`. Keep it private during co-author revision and use a branch/pull request for scientific changes. The owner manages collaborator access through GitHub Settings; local integration scripts do not send invitations.

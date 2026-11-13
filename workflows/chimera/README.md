@@ -1,6 +1,6 @@
 # Figure S9 NusG–RfaH chimera
 
-Use `Figure_S9.pdf` for the combined prediction panels A–C; the complete S9 including NMR is not generated here. PNG (350 dpi) and editable SVG exports are also available. The manuscript-format [legend](Figure_S9_legend.md) describes panels A–C. The current SI places BCCIP/RfaH/NusG in S8. These exports cover only prediction panels A–C of S9; NMR panels D–E require collaborator sources.
+Use `Figure_S9.pdf` for the combined prediction panels A–C; the complete S9 including NMR is not generated here. PNG (350 dpi) and editable SVG exports are also available. The manuscript-format [legend](Figure_S9_legend.md) describes panels A–C. The current SI places BCCIP/RfaH/NusG in S8. These exports cover only prediction panels A–C of S9; [Full SI artwork including NMR](../../figures/S9/README.md) is now included separately; underlying experimental data and plotting sources are still required.
 
 The figure uses actual predicted coordinates, burgundy #AC0035 for the β-sheet CTD, gold #DAA520 for the α-helical-state key, and grey for the remaining residues. The representative structures were selected by the original model ranking, independently of CTD fold: AF2 by whole-model pLDDT; AF3 by ranking_score. No additional predictions were generated.
 
