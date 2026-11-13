@@ -1,0 +1,255 @@
+{'separation': 6, 'metric': 'ordinary_jaccard', 'reference': 'query', 'n': 362, 'mean': 0.020749168565740436, 'median': 0.017241379310344827}
+{'separation': 6, 'metric': 'ordinary_jaccard', 'reference': 'donor', 'n': 362, 'mean': 0.8645243636271751, 'median': 0.927055702917772}
+{'separation': 6, 'metric': 'pearson_all_eligible', 'reference': 'query', 'n': 362, 'mean': 0.01666785243097746, 'median': 0.009703994110557312}
+{'separation': 6, 'metric': 'pearson_all_eligible', 'reference': 'donor', 'n': 362, 'mean': 0.9795676785276304, 'median': 0.9980221461602936}
+{'separation': 6, 'metric': 'pearson_union_top_L', 'reference': 'query', 'n': 362, 'mean': -0.78932826017514, 'median': -0.8342777028896156}
+{'separation': 6, 'metric': 'pearson_union_top_L', 'reference': 'donor', 'n': 362, 'mean': 0.9103873187367315, 'median': 0.9810223991480909}
+{'separation': 12, 'metric': 'ordinary_jaccard', 'reference': 'query', 'n': 362, 'mean': 0.02104059998249245, 'median': 0.015228426395939087}
+{'separation': 12, 'metric': 'ordinary_jaccard', 'reference': 'donor', 'n': 362, 'mean': 0.8534438312895888, 'median': 0.9310344827586207}
+{'separation': 12, 'metric': 'pearson_all_eligible', 'reference': 'query', 'n': 362, 'mean': 0.0035693886803837786, 'median': -0.0005977121546295622}
+{'separation': 12, 'metric': 'pearson_all_eligible', 'reference': 'donor', 'n': 362, 'mean': 0.9737390711608646, 'median': 0.9977342894726307}
+{'separation': 12, 'metric': 'pearson_union_top_L', 'reference': 'query', 'n': 362, 'mean': -0.7273171322003066, 'median': -0.7747401655354105}
+{'separation': 12, 'metric': 'pearson_union_top_L', 'reference': 'donor', 'n': 362, 'mean': 0.9133071526060552, 'median': 0.9845975611542385}
+{'separation': 24, 'metric': 'ordinary_jaccard', 'reference': 'query', 'n': 362, 'mean': 0.0360821769503331, 'median': 0.02564102564102564}
+{'separation': 24, 'metric': 'ordinary_jaccard', 'reference': 'donor', 'n': 362, 'mean': 0.84437533876701, 'median': 0.910828025477707}
+{'separation': 24, 'metric': 'pearson_all_eligible', 'reference': 'query', 'n': 362, 'mean': 0.0008821684255064833, 'median': -0.0047765625412239335}
+{'separation': 24, 'metric': 'pearson_all_eligible', 'reference': 'donor', 'n': 362, 'mean': 0.9619200205102585, 'median': 0.9977308224361366}
+{'separation': 24, 'metric': 'pearson_union_top_L', 'reference': 'query', 'n': 362, 'mean': -0.5938319034327205, 'median': -0.5973496505788233}
+{'separation': 24, 'metric': 'pearson_union_top_L', 'reference': 'donor', 'n': 362, 'mean': 0.903346388666658, 'median': 0.989317056590145}
+Validated 2172/2172 comparisons; 0 undefined
+{'separation': 6, 'reference': 'query', 'metric': 'ordinary_jaccard', 'n': 362, 'mean': 0.020749168565740436, 'median': 0.017241379310344827, 'minimum': 0.0, 'maximum': 0.16666666666666666}
+{'separation': 6, 'reference': 'query', 'metric': 'tolerant_jaccard', 'n': 362, 'mean': 0.04002964637359439, 'median': 0.030848532910388582, 'minimum': 0.0, 'maximum': 0.25}
+{'separation': 6, 'reference': 'donor', 'metric': 'ordinary_jaccard', 'n': 362, 'mean': 0.8645243636271751, 'median': 0.927055702917772, 'minimum': 0.29545454545454547, 'maximum': 1.0}
+{'separation': 6, 'reference': 'donor', 'metric': 'tolerant_jaccard', 'n': 362, 'mean': 0.9574633484137792, 'median': 1.0, 'minimum': 0.4318181818181818, 'maximum': 1.0}
+{'separation': 12, 'reference': 'query', 'metric': 'ordinary_jaccard', 'n': 362, 'mean': 0.02104059998249245, 'median': 0.015228426395939087, 'minimum': 0.0, 'maximum': 0.14285714285714285}
+{'separation': 12, 'reference': 'query', 'metric': 'tolerant_jaccard', 'n': 362, 'mean': 0.04089077335933101, 'median': 0.02739783152627189, 'minimum': 0.0, 'maximum': 0.21428571428571427}
+{'separation': 12, 'reference': 'donor', 'metric': 'ordinary_jaccard', 'n': 362, 'mean': 0.8534438312895888, 'median': 0.9310344827586207, 'minimum': 0.20430107526881722, 'maximum': 1.0}
+{'separation': 12, 'reference': 'donor', 'metric': 'tolerant_jaccard', 'n': 362, 'mean': 0.9497563887135827, 'median': 1.0, 'minimum': 0.3655913978494624, 'maximum': 1.0}
+{'separation': 24, 'reference': 'query', 'metric': 'ordinary_jaccard', 'n': 362, 'mean': 0.0360821769503331, 'median': 0.02564102564102564, 'minimum': 0.0, 'maximum': 0.21739130434782608}
+{'separation': 24, 'reference': 'query', 'metric': 'tolerant_jaccard', 'n': 362, 'mean': 0.07100385592111315, 'median': 0.05504587155963303, 'minimum': 0.0, 'maximum': 0.40217391304347827}
+{'separation': 24, 'reference': 'donor', 'metric': 'ordinary_jaccard', 'n': 362, 'mean': 0.84437533876701, 'median': 0.910828025477707, 'minimum': 0.23076923076923078, 'maximum': 1.0}
+{'separation': 24, 'reference': 'donor', 'metric': 'tolerant_jaccard', 'n': 362, 'mean': 0.9503565045517651, 'median': 1.0, 'minimum': 0.38461538461538464, 'maximum': 1.0}
+PAIRED [{'separation': 6, 'donor_greater': 362, 'equal': 0, 'query_greater': 0}, {'separation': 12, 'donor_greater': 362, 'equal': 0, 'query_greater': 0}, {'separation': 24, 'donor_greater': 362, 'equal': 0, 'query_greater': 0}]
+2mm4 6 n 13 ordinary 0.3897227083498566 tolerant 0.5418804698211923
+2mm4 12 n 13 ordinary 0.3116441547140132 tolerant 0.4487630072094575
+2mm4 24 n 13 ordinary 0.3028414584255392 tolerant 0.47363657238409035
+Updated PNG/PDF/SVG. Numerical table and validation hashes unchanged.
+[
+  {
+    "separation": "6",
+    "reference": "query",
+    "metric": "ordinary_jaccard",
+    "n": 362,
+    "old_mean": 0.021954168806028854,
+    "new_mean": 0.020749168565740436,
+    "mean_delta": -0.0012050002402884188
+  },
+  {
+    "separation": "6",
+    "reference": "query",
+    "metric": "tolerant_jaccard",
+    "n": 362,
+    "old_mean": 0.04160077324024636,
+    "new_mean": 0.04002964637359439,
+    "mean_delta": -0.0015711268666519706
+  },
+  {
+    "separation": "6",
+    "reference": "query",
+    "metric": "pearson_all_eligible",
+    "n": 362,
+    "old_mean": 0.019853325436543456,
+    "new_mean": 0.01666785243097746,
+    "mean_delta": -0.003185473005565997
+  },
+  {
+    "separation": "6",
+    "reference": "query",
+    "metric": "pearson_union_top_L",
+    "n": 362,
+    "old_mean": -0.7661945813115729,
+    "new_mean": -0.78932826017514,
+    "mean_delta": -0.023133678863567163
+  },
+  {
+    "separation": "6",
+    "reference": "donor",
+    "metric": "ordinary_jaccard",
+    "n": 362,
+    "old_mean": 0.6631513008248819,
+    "new_mean": 0.8645243636271751,
+    "mean_delta": 0.20137306280229314
+  },
+  {
+    "separation": "6",
+    "reference": "donor",
+    "metric": "tolerant_jaccard",
+    "n": 362,
+    "old_mean": 0.8454755986002078,
+    "new_mean": 0.9574633484137792,
+    "mean_delta": 0.11198774981357151
+  },
+  {
+    "separation": "6",
+    "reference": "donor",
+    "metric": "pearson_all_eligible",
+    "n": 362,
+    "old_mean": 0.9193425884811283,
+    "new_mean": 0.9795676785276304,
+    "mean_delta": 0.06022509004650224
+  },
+  {
+    "separation": "6",
+    "reference": "donor",
+    "metric": "pearson_union_top_L",
+    "n": 362,
+    "old_mean": 0.6680559702866434,
+    "new_mean": 0.9103873187367315,
+    "mean_delta": 0.24233134845008816
+  },
+  {
+    "separation": "12",
+    "reference": "query",
+    "metric": "ordinary_jaccard",
+    "n": 362,
+    "old_mean": 0.02325399415029234,
+    "new_mean": 0.02104059998249245,
+    "mean_delta": -0.00221339416779989
+  },
+  {
+    "separation": "12",
+    "reference": "query",
+    "metric": "tolerant_jaccard",
+    "n": 362,
+    "old_mean": 0.04243337747668372,
+    "new_mean": 0.04089077335933101,
+    "mean_delta": -0.0015426041173527063
+  },
+  {
+    "separation": "12",
+    "reference": "query",
+    "metric": "pearson_all_eligible",
+    "n": 362,
+    "old_mean": 0.007359955159817743,
+    "new_mean": 0.0035693886803837786,
+    "mean_delta": -0.0037905664794339656
+  },
+  {
+    "separation": "12",
+    "reference": "query",
+    "metric": "pearson_union_top_L",
+    "n": 362,
+    "old_mean": -0.6987522050417474,
+    "new_mean": -0.7273171322003066,
+    "mean_delta": -0.02856492715855913
+  },
+  {
+    "separation": "12",
+    "reference": "donor",
+    "metric": "ordinary_jaccard",
+    "n": 362,
+    "old_mean": 0.6599058965168227,
+    "new_mean": 0.8534438312895888,
+    "mean_delta": 0.1935379347727661
+  },
+  {
+    "separation": "12",
+    "reference": "donor",
+    "metric": "tolerant_jaccard",
+    "n": 362,
+    "old_mean": 0.8361115952601627,
+    "new_mean": 0.9497563887135827,
+    "mean_delta": 0.11364479345342013
+  },
+  {
+    "separation": "12",
+    "reference": "donor",
+    "metric": "pearson_all_eligible",
+    "n": 362,
+    "old_mean": 0.9047569480959393,
+    "new_mean": 0.9737390711608646,
+    "mean_delta": 0.06898212306492539
+  },
+  {
+    "separation": "12",
+    "reference": "donor",
+    "metric": "pearson_union_top_L",
+    "n": 362,
+    "old_mean": 0.6853920988419164,
+    "new_mean": 0.9133071526060552,
+    "mean_delta": 0.22791505376413873
+  },
+  {
+    "separation": "24",
+    "reference": "query",
+    "metric": "ordinary_jaccard",
+    "n": 362,
+    "old_mean": 0.03609760702850689,
+    "new_mean": 0.0360821769503331,
+    "mean_delta": -1.543007817379649e-05
+  },
+  {
+    "separation": "24",
+    "reference": "query",
+    "metric": "tolerant_jaccard",
+    "n": 362,
+    "old_mean": 0.07053542305888984,
+    "new_mean": 0.07100385592111315,
+    "mean_delta": 0.0004684328622233206
+  },
+  {
+    "separation": "24",
+    "reference": "query",
+    "metric": "pearson_all_eligible",
+    "n": 362,
+    "old_mean": 0.003974890021136745,
+    "new_mean": 0.0008821684255064833,
+    "mean_delta": -0.003092721595630262
+  },
+  {
+    "separation": "24",
+    "reference": "query",
+    "metric": "pearson_union_top_L",
+    "n": 362,
+    "old_mean": -0.5779180725984857,
+    "new_mean": -0.5938319034327205,
+    "mean_delta": -0.0159138308342348
+  },
+  {
+    "separation": "24",
+    "reference": "donor",
+    "metric": "ordinary_jaccard",
+    "n": 362,
+    "old_mean": 0.6447337978217328,
+    "new_mean": 0.84437533876701,
+    "mean_delta": 0.19964154094527714
+  },
+  {
+    "separation": "24",
+    "reference": "donor",
+    "metric": "tolerant_jaccard",
+    "n": 362,
+    "old_mean": 0.8309560654199344,
+    "new_mean": 0.9503565045517651,
+    "mean_delta": 0.11940043913183074
+  },
+  {
+    "separation": "24",
+    "reference": "donor",
+    "metric": "pearson_all_eligible",
+    "n": 362,
+    "old_mean": 0.8830480012997843,
+    "new_mean": 0.9619200205102585,
+    "mean_delta": 0.0788720192104741
+  },
+  {
+    "separation": "24",
+    "reference": "donor",
+    "metric": "pearson_union_top_L",
+    "n": 362,
+    "old_mean": 0.6993115058451358,
+    "new_mean": 0.903346388666658,
+    "mean_delta": 0.20403488282152213
+  }
+]
+Wrote README from validated summaries.

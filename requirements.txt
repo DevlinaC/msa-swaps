@@ -1,0 +1,6 @@
+# Analysis environment tested with Python 3.11.15; inference dependencies excluded.
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.17.1
+scikit-learn==1.9.0
+matplotlib==3.11.0

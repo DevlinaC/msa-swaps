@@ -1,0 +1,168 @@
+{
+  "code_sha256": "7dd1183f1849a622f32fa2f69faab593f73294adef5c846708416a676e1bf6e3",
+  "comparison_records": 2172,
+  "definition": "|(A intersect Bwide) union (B intersect Awide)| / |A union B|; A/B top L, wide top floor(1.5L), cutoff ties retained.",
+  "figure": "All 362 points per group; horizontal jitter only; black median bars; manuscript colors.",
+  "historical_function_replays": 2172,
+  "mapping": "Existing homolog registration retained; no center recropping.",
+  "matrices_checked": 396,
+  "ordinary_score_replays": 2172,
+  "output_hashes": {
+    "comparisons.csv": "752fe4224869793bae75f64c7f9b471ce1d620b05f5322d6ee91b396bf90f82d",
+    "jaccard_comparison.pdf": "7a68ef6bc6d91d1e38d79ebf17868adc21ed01c9caa152e7f60c78588367c044",
+    "jaccard_comparison.png": "817d6e433fd9bd832e6c0415ddac0a4f2b0a90de55737bcf5785e96e8c731c96",
+    "jaccard_comparison.svg": "fc52e5e68997fca80abf54679a61a2110f6856a47f1561fbfbe620dae348d1a2",
+    "paired_direction.csv": "c00af8cb2cca2cfc101c5ee2046f5682c872c75df24d137bdfabc8f6bf99130a",
+    "summary.csv": "3cacabd59cc1868c0de589fb3e5265972c5f87a8da5fec43c103f4e1f9739888"
+  },
+  "paired_direction": [
+    {
+      "donor_greater": 362,
+      "equal": 0,
+      "query_greater": 0,
+      "separation": 6
+    },
+    {
+      "donor_greater": 362,
+      "equal": 0,
+      "query_greater": 0,
+      "separation": 12
+    },
+    {
+      "donor_greater": 362,
+      "equal": 0,
+      "query_greater": 0,
+      "separation": 24
+    }
+  ],
+  "source_hashes": {
+    "/Users/chakravartyd2/Documents/AF_paper/Lydia_summer_student/msa_pairformer_512_unweighted/figure_palette.json": "5ce3f42eb0ec8cab09748a73192f8b4a90382cc5bb9925afd9ea7f725d0e5c63",
+    "/Users/chakravartyd2/Documents/AF_paper/Lydia_summer_student/msa_pairformer_512_unweighted/inputs/manifest.json": "f2c6f0b696296b6316d8ee6347c4b0e1b5ea796d64e4f622881f94c775f1468d",
+    "/Users/chakravartyd2/Documents/AF_paper/Lydia_summer_student/msa_pairformer_512_unweighted/results/analysis/VALIDATED.json": "b296db46723ad051a3cb9b8589d2521dce3f2ed8aba59f336b3ef4eba1fa3e94",
+    "/Users/chakravartyd2/Documents/AF_paper/Lydia_summer_student/msa_pairformer_512_unweighted/results/analysis/comparisons.csv": "f90729b97243ca0cecceb1c559bf5cd306fcdcc37bfc6943ca0a007a15d8934a",
+    "/Users/chakravartyd2/Documents/AF_paper/Lydia_summer_student/msa_pairformer_512_unweighted/scripts/reference/analyze_msatransformer_separation.py": "76fd10d89f972a9c902414949de60656c0c70908385c336d375a42004e681b69"
+  },
+  "status": "PASS",
+  "summary": [
+    {
+      "maximum": 0.16666666666666666,
+      "mean": 0.020749168565740436,
+      "median": 0.017241379310344827,
+      "metric": "ordinary_jaccard",
+      "minimum": 0.0,
+      "n": 362,
+      "reference": "query",
+      "separation": 6
+    },
+    {
+      "maximum": 0.25,
+      "mean": 0.04002964637359439,
+      "median": 0.030848532910388582,
+      "metric": "tolerant_jaccard",
+      "minimum": 0.0,
+      "n": 362,
+      "reference": "query",
+      "separation": 6
+    },
+    {
+      "maximum": 1.0,
+      "mean": 0.8645243636271751,
+      "median": 0.927055702917772,
+      "metric": "ordinary_jaccard",
+      "minimum": 0.29545454545454547,
+      "n": 362,
+      "reference": "donor",
+      "separation": 6
+    },
+    {
+      "maximum": 1.0,
+      "mean": 0.9574633484137792,
+      "median": 1.0,
+      "metric": "tolerant_jaccard",
+      "minimum": 0.4318181818181818,
+      "n": 362,
+      "reference": "donor",
+      "separation": 6
+    },
+    {
+      "maximum": 0.14285714285714285,
+      "mean": 0.02104059998249245,
+      "median": 0.015228426395939087,
+      "metric": "ordinary_jaccard",
+      "minimum": 0.0,
+      "n": 362,
+      "reference": "query",
+      "separation": 12
+    },
+    {
+      "maximum": 0.21428571428571427,
+      "mean": 0.04089077335933101,
+      "median": 0.02739783152627189,
+      "metric": "tolerant_jaccard",
+      "minimum": 0.0,
+      "n": 362,
+      "reference": "query",
+      "separation": 12
+    },
+    {
+      "maximum": 1.0,
+      "mean": 0.8534438312895888,
+      "median": 0.9310344827586207,
+      "metric": "ordinary_jaccard",
+      "minimum": 0.20430107526881722,
+      "n": 362,
+      "reference": "donor",
+      "separation": 12
+    },
+    {
+      "maximum": 1.0,
+      "mean": 0.9497563887135827,
+      "median": 1.0,
+      "metric": "tolerant_jaccard",
+      "minimum": 0.3655913978494624,
+      "n": 362,
+      "reference": "donor",
+      "separation": 12
+    },
+    {
+      "maximum": 0.21739130434782608,
+      "mean": 0.0360821769503331,
+      "median": 0.02564102564102564,
+      "metric": "ordinary_jaccard",
+      "minimum": 0.0,
+      "n": 362,
+      "reference": "query",
+      "separation": 24
+    },
+    {
+      "maximum": 0.40217391304347827,
+      "mean": 0.07100385592111315,
+      "median": 0.05504587155963303,
+      "metric": "tolerant_jaccard",
+      "minimum": 0.0,
+      "n": 362,
+      "reference": "query",
+      "separation": 24
+    },
+    {
+      "maximum": 1.0,
+      "mean": 0.84437533876701,
+      "median": 0.910828025477707,
+      "metric": "ordinary_jaccard",
+      "minimum": 0.23076923076923078,
+      "n": 362,
+      "reference": "donor",
+      "separation": 24
+    },
+    {
+      "maximum": 1.0,
+      "mean": 0.9503565045517651,
+      "median": 1.0,
+      "metric": "tolerant_jaccard",
+      "minimum": 0.38461538461538464,
+      "n": 362,
+      "reference": "donor",
+      "separation": 24
+    }
+  ]
+}

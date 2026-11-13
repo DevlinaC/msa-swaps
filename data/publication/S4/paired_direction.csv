@@ -1,0 +1,145 @@
+af,method,selection,separation,subset,metric,comparison,n,donor_greater,equal,donor_lower,mean_difference
+AF2,GREMLIN,class_cap_z1,6,all,precision,native_B_vs_native_A,362,336,4,22,0.3315804711389919
+AF2,GREMLIN,class_cap_z1,6,all,precision,native_B_vs_swapped_output,362,344,10,8,0.3458300467992291
+AF2,GREMLIN,class_cap_z1,6,all,jaccard,native_B_vs_native_A,362,344,0,18,0.203610543577558
+AF2,GREMLIN,class_cap_z1,6,all,jaccard,native_B_vs_swapped_output,362,347,7,8,0.20786144753604188
+AF2,GREMLIN,class_cap_z1,12,all,precision,native_B_vs_native_A,362,339,4,19,0.33386307762450135
+AF2,GREMLIN,class_cap_z1,12,all,precision,native_B_vs_swapped_output,362,344,9,9,0.34601992383109664
+AF2,GREMLIN,class_cap_z1,12,all,jaccard,native_B_vs_native_A,362,346,0,16,0.21288333849822078
+AF2,GREMLIN,class_cap_z1,12,all,jaccard,native_B_vs_swapped_output,362,345,7,10,0.21639570504054764
+AF2,GREMLIN,class_cap_z1,24,all,precision,native_B_vs_native_A,362,330,10,22,0.3240164294300749
+AF2,GREMLIN,class_cap_z1,24,all,precision,native_B_vs_swapped_output,362,338,16,8,0.33827809923094976
+AF2,GREMLIN,class_cap_z1,24,all,jaccard,native_B_vs_native_A,362,337,1,24,0.20932729382763768
+AF2,GREMLIN,class_cap_z1,24,all,jaccard,native_B_vs_swapped_output,362,341,9,12,0.21386190799096574
+AF2,GREMLIN,topL,6,all,precision,native_B_vs_native_A,362,336,4,22,0.3452952123898893
+AF2,GREMLIN,topL,6,all,precision,native_B_vs_swapped_output,362,345,11,6,0.3599254048069489
+AF2,GREMLIN,topL,6,all,jaccard,native_B_vs_native_A,362,343,0,19,0.20267215972060348
+AF2,GREMLIN,topL,6,all,jaccard,native_B_vs_swapped_output,362,348,8,6,0.20650860203977817
+AF2,GREMLIN,topL,12,all,precision,native_B_vs_native_A,362,336,5,21,0.2966352047597977
+AF2,GREMLIN,topL,12,all,precision,native_B_vs_swapped_output,362,343,10,9,0.3090226471465156
+AF2,GREMLIN,topL,12,all,jaccard,native_B_vs_native_A,362,344,0,18,0.19956961532874695
+AF2,GREMLIN,topL,12,all,jaccard,native_B_vs_swapped_output,362,345,8,9,0.2036699067579952
+AF2,GREMLIN,topL,24,all,precision,native_B_vs_native_A,362,315,11,36,0.17367427409518876
+AF2,GREMLIN,topL,24,all,precision,native_B_vs_swapped_output,362,330,18,14,0.19099169345185496
+AF2,GREMLIN,topL,24,all,jaccard,native_B_vs_native_A,362,322,0,40,0.13850416111327815
+AF2,GREMLIN,topL,24,all,jaccard,native_B_vs_swapped_output,362,334,9,19,0.14875103273787335
+AF2,MSA Transformer,topL,6,all,precision,native_B_vs_native_A,362,348,1,13,0.5512891280652299
+AF2,MSA Transformer,topL,6,all,precision,native_B_vs_swapped_output,362,348,5,9,0.5546017454021536
+AF2,MSA Transformer,topL,6,all,jaccard,native_B_vs_native_A,362,349,0,13,0.2890469244322638
+AF2,MSA Transformer,topL,6,all,jaccard,native_B_vs_swapped_output,362,349,5,8,0.2844463961881109
+AF2,MSA Transformer,topL,12,all,precision,native_B_vs_native_A,362,348,0,14,0.4943916272990649
+AF2,MSA Transformer,topL,12,all,precision,native_B_vs_swapped_output,362,349,7,6,0.5003030611181851
+AF2,MSA Transformer,topL,12,all,jaccard,native_B_vs_native_A,362,348,0,14,0.3021669649837609
+AF2,MSA Transformer,topL,12,all,jaccard,native_B_vs_swapped_output,362,349,7,6,0.299880722060632
+AF2,MSA Transformer,topL,24,all,precision,native_B_vs_native_A,362,332,3,27,0.35024131509806583
+AF2,MSA Transformer,topL,24,all,precision,native_B_vs_swapped_output,362,341,10,11,0.36254605902792153
+AF2,MSA Transformer,topL,24,all,jaccard,native_B_vs_native_A,362,336,2,24,0.26061984530530136
+AF2,MSA Transformer,topL,24,all,jaccard,native_B_vs_swapped_output,362,341,9,12,0.2642905246101903
+AF3,GREMLIN,class_cap_z1,6,all,precision,native_B_vs_native_A,362,339,3,20,0.32508302287061214
+AF3,GREMLIN,class_cap_z1,6,all,precision,native_B_vs_swapped_output,362,338,4,20,0.3262332722319365
+AF3,GREMLIN,class_cap_z1,6,all,jaccard,native_B_vs_native_A,362,342,0,20,0.20034080195092716
+AF3,GREMLIN,class_cap_z1,6,all,jaccard,native_B_vs_swapped_output,362,344,0,18,0.20008635301443595
+AF3,GREMLIN,class_cap_z1,12,all,precision,native_B_vs_native_A,362,342,4,16,0.3274024838899281
+AF3,GREMLIN,class_cap_z1,12,all,precision,native_B_vs_swapped_output,362,341,5,16,0.329202792382053
+AF3,GREMLIN,class_cap_z1,12,all,jaccard,native_B_vs_native_A,362,347,0,15,0.20932326438778573
+AF3,GREMLIN,class_cap_z1,12,all,jaccard,native_B_vs_swapped_output,362,347,0,15,0.20929798471905975
+AF3,GREMLIN,class_cap_z1,24,all,precision,native_B_vs_native_A,362,329,10,23,0.31752693516729524
+AF3,GREMLIN,class_cap_z1,24,all,precision,native_B_vs_swapped_output,362,334,6,22,0.32118744527990994
+AF3,GREMLIN,class_cap_z1,24,all,jaccard,native_B_vs_native_A,362,337,0,25,0.20711098764727845
+AF3,GREMLIN,class_cap_z1,24,all,jaccard,native_B_vs_swapped_output,362,338,0,24,0.20750822732291938
+AF3,GREMLIN,topL,6,all,precision,native_B_vs_native_A,362,338,3,21,0.3387821062758615
+AF3,GREMLIN,topL,6,all,precision,native_B_vs_swapped_output,362,336,6,20,0.3405052740968982
+AF3,GREMLIN,topL,6,all,jaccard,native_B_vs_native_A,362,342,0,20,0.19968006817277692
+AF3,GREMLIN,topL,6,all,jaccard,native_B_vs_swapped_output,362,341,1,20,0.19949984099345566
+AF3,GREMLIN,topL,12,all,precision,native_B_vs_native_A,362,337,6,19,0.2894572649485411
+AF3,GREMLIN,topL,12,all,precision,native_B_vs_swapped_output,362,339,6,17,0.2926255152825003
+AF3,GREMLIN,topL,12,all,jaccard,native_B_vs_native_A,362,342,0,20,0.19486806312557048
+AF3,GREMLIN,topL,12,all,jaccard,native_B_vs_swapped_output,362,347,0,15,0.1959278720748717
+AF3,GREMLIN,topL,24,all,precision,native_B_vs_native_A,362,316,9,37,0.16821724204815564
+AF3,GREMLIN,topL,24,all,precision,native_B_vs_swapped_output,362,321,6,35,0.17369030568640378
+AF3,GREMLIN,topL,24,all,jaccard,native_B_vs_native_A,362,323,0,39,0.1345785965380377
+AF3,GREMLIN,topL,24,all,jaccard,native_B_vs_swapped_output,362,323,1,38,0.1379165127285564
+AF3,MSA Transformer,topL,6,all,precision,native_B_vs_native_A,362,347,2,13,0.5472020015520522
+AF3,MSA Transformer,topL,6,all,precision,native_B_vs_swapped_output,362,345,3,14,0.5469694067234566
+AF3,MSA Transformer,topL,6,all,jaccard,native_B_vs_native_A,362,349,1,12,0.28463994768045237
+AF3,MSA Transformer,topL,6,all,jaccard,native_B_vs_swapped_output,362,347,0,15,0.28382029945447157
+AF3,MSA Transformer,topL,12,all,precision,native_B_vs_native_A,362,347,0,15,0.4914740197337456
+AF3,MSA Transformer,topL,12,all,precision,native_B_vs_swapped_output,362,347,1,14,0.4931217545415085
+AF3,MSA Transformer,topL,12,all,jaccard,native_B_vs_native_A,362,348,0,14,0.29820155360482464
+AF3,MSA Transformer,topL,12,all,jaccard,native_B_vs_swapped_output,362,348,0,14,0.29806196991471784
+AF3,MSA Transformer,topL,24,all,precision,native_B_vs_native_A,362,332,3,27,0.35239861043398024
+AF3,MSA Transformer,topL,24,all,precision,native_B_vs_swapped_output,362,335,3,24,0.35522873440369773
+AF3,MSA Transformer,topL,24,all,jaccard,native_B_vs_native_A,362,335,1,26,0.26274832765915446
+AF3,MSA Transformer,topL,24,all,jaccard,native_B_vs_swapped_output,362,339,1,22,0.26338896967123127
+AF2,GREMLIN,class_cap_z1,6,compatible_inputs,precision,native_B_vs_native_A,290,271,3,16,0.3004670346274668
+AF2,GREMLIN,class_cap_z1,6,compatible_inputs,precision,native_B_vs_swapped_output,290,278,6,6,0.31179547901275445
+AF2,GREMLIN,class_cap_z1,6,compatible_inputs,jaccard,native_B_vs_native_A,290,277,0,13,0.18516159026903126
+AF2,GREMLIN,class_cap_z1,6,compatible_inputs,jaccard,native_B_vs_swapped_output,290,279,5,6,0.1881697302601189
+AF2,GREMLIN,class_cap_z1,12,compatible_inputs,precision,native_B_vs_native_A,290,272,4,14,0.29742628466534665
+AF2,GREMLIN,class_cap_z1,12,compatible_inputs,precision,native_B_vs_swapped_output,290,277,5,8,0.3055358470565539
+AF2,GREMLIN,class_cap_z1,12,compatible_inputs,jaccard,native_B_vs_native_A,290,278,0,12,0.19246390458114404
+AF2,GREMLIN,class_cap_z1,12,compatible_inputs,jaccard,native_B_vs_swapped_output,290,277,5,8,0.19409577313557153
+AF2,GREMLIN,class_cap_z1,24,compatible_inputs,precision,native_B_vs_native_A,290,263,9,18,0.2865635139185847
+AF2,GREMLIN,class_cap_z1,24,compatible_inputs,precision,native_B_vs_swapped_output,290,269,13,8,0.295153503921515
+AF2,GREMLIN,class_cap_z1,24,compatible_inputs,jaccard,native_B_vs_native_A,290,270,1,19,0.1822330966447478
+AF2,GREMLIN,class_cap_z1,24,compatible_inputs,jaccard,native_B_vs_swapped_output,290,273,6,11,0.18433902919994619
+AF2,GREMLIN,topL,6,compatible_inputs,precision,native_B_vs_native_A,290,271,3,16,0.3062788214224864
+AF2,GREMLIN,topL,6,compatible_inputs,precision,native_B_vs_swapped_output,290,278,6,6,0.31804966761497
+AF2,GREMLIN,topL,6,compatible_inputs,jaccard,native_B_vs_native_A,290,276,0,14,0.18356146539231752
+AF2,GREMLIN,topL,6,compatible_inputs,jaccard,native_B_vs_swapped_output,290,279,5,6,0.18640280363711795
+AF2,GREMLIN,topL,12,compatible_inputs,precision,native_B_vs_native_A,290,270,4,16,0.2636594821694969
+AF2,GREMLIN,topL,12,compatible_inputs,precision,native_B_vs_swapped_output,290,277,5,8,0.2721895242091761
+AF2,GREMLIN,topL,12,compatible_inputs,jaccard,native_B_vs_native_A,290,277,0,13,0.1777399313186835
+AF2,GREMLIN,topL,12,compatible_inputs,jaccard,native_B_vs_swapped_output,290,277,5,8,0.17991802634433696
+AF2,GREMLIN,topL,24,compatible_inputs,precision,native_B_vs_native_A,290,254,8,28,0.1705294410131478
+AF2,GREMLIN,topL,24,compatible_inputs,precision,native_B_vs_swapped_output,290,265,11,14,0.18313024790635077
+AF2,GREMLIN,topL,24,compatible_inputs,jaccard,native_B_vs_native_A,290,259,0,31,0.13347877433217933
+AF2,GREMLIN,topL,24,compatible_inputs,jaccard,native_B_vs_swapped_output,290,267,6,17,0.1400349150851595
+AF2,MSA Transformer,topL,6,compatible_inputs,precision,native_B_vs_native_A,290,279,1,10,0.5362761108064503
+AF2,MSA Transformer,topL,6,compatible_inputs,precision,native_B_vs_swapped_output,290,279,4,7,0.5371959802113154
+AF2,MSA Transformer,topL,6,compatible_inputs,jaccard,native_B_vs_native_A,290,280,0,10,0.2790956839421042
+AF2,MSA Transformer,topL,6,compatible_inputs,jaccard,native_B_vs_swapped_output,290,280,4,6,0.27376999044021094
+AF2,MSA Transformer,topL,12,compatible_inputs,precision,native_B_vs_native_A,290,279,0,11,0.48717213164312057
+AF2,MSA Transformer,topL,12,compatible_inputs,precision,native_B_vs_swapped_output,290,280,5,5,0.4906172106893122
+AF2,MSA Transformer,topL,12,compatible_inputs,jaccard,native_B_vs_native_A,290,279,0,11,0.2932445599359616
+AF2,MSA Transformer,topL,12,compatible_inputs,jaccard,native_B_vs_swapped_output,290,280,5,5,0.28986180853942556
+AF2,MSA Transformer,topL,24,compatible_inputs,precision,native_B_vs_native_A,290,269,2,19,0.36110978475532424
+AF2,MSA Transformer,topL,24,compatible_inputs,precision,native_B_vs_swapped_output,290,273,8,9,0.3693327945915293
+AF2,MSA Transformer,topL,24,compatible_inputs,jaccard,native_B_vs_native_A,290,269,2,19,0.26032388576792603
+AF2,MSA Transformer,topL,24,compatible_inputs,jaccard,native_B_vs_swapped_output,290,273,7,10,0.26100358765801235
+AF3,GREMLIN,class_cap_z1,6,compatible_inputs,precision,native_B_vs_native_A,362,339,3,20,0.32508302287061214
+AF3,GREMLIN,class_cap_z1,6,compatible_inputs,precision,native_B_vs_swapped_output,362,338,4,20,0.3262332722319365
+AF3,GREMLIN,class_cap_z1,6,compatible_inputs,jaccard,native_B_vs_native_A,362,342,0,20,0.20034080195092716
+AF3,GREMLIN,class_cap_z1,6,compatible_inputs,jaccard,native_B_vs_swapped_output,362,344,0,18,0.20008635301443595
+AF3,GREMLIN,class_cap_z1,12,compatible_inputs,precision,native_B_vs_native_A,362,342,4,16,0.3274024838899281
+AF3,GREMLIN,class_cap_z1,12,compatible_inputs,precision,native_B_vs_swapped_output,362,341,5,16,0.329202792382053
+AF3,GREMLIN,class_cap_z1,12,compatible_inputs,jaccard,native_B_vs_native_A,362,347,0,15,0.20932326438778573
+AF3,GREMLIN,class_cap_z1,12,compatible_inputs,jaccard,native_B_vs_swapped_output,362,347,0,15,0.20929798471905975
+AF3,GREMLIN,class_cap_z1,24,compatible_inputs,precision,native_B_vs_native_A,362,329,10,23,0.31752693516729524
+AF3,GREMLIN,class_cap_z1,24,compatible_inputs,precision,native_B_vs_swapped_output,362,334,6,22,0.32118744527990994
+AF3,GREMLIN,class_cap_z1,24,compatible_inputs,jaccard,native_B_vs_native_A,362,337,0,25,0.20711098764727845
+AF3,GREMLIN,class_cap_z1,24,compatible_inputs,jaccard,native_B_vs_swapped_output,362,338,0,24,0.20750822732291938
+AF3,GREMLIN,topL,6,compatible_inputs,precision,native_B_vs_native_A,362,338,3,21,0.3387821062758615
+AF3,GREMLIN,topL,6,compatible_inputs,precision,native_B_vs_swapped_output,362,336,6,20,0.3405052740968982
+AF3,GREMLIN,topL,6,compatible_inputs,jaccard,native_B_vs_native_A,362,342,0,20,0.19968006817277692
+AF3,GREMLIN,topL,6,compatible_inputs,jaccard,native_B_vs_swapped_output,362,341,1,20,0.19949984099345566
+AF3,GREMLIN,topL,12,compatible_inputs,precision,native_B_vs_native_A,362,337,6,19,0.2894572649485411
+AF3,GREMLIN,topL,12,compatible_inputs,precision,native_B_vs_swapped_output,362,339,6,17,0.2926255152825003
+AF3,GREMLIN,topL,12,compatible_inputs,jaccard,native_B_vs_native_A,362,342,0,20,0.19486806312557048
+AF3,GREMLIN,topL,12,compatible_inputs,jaccard,native_B_vs_swapped_output,362,347,0,15,0.1959278720748717
+AF3,GREMLIN,topL,24,compatible_inputs,precision,native_B_vs_native_A,362,316,9,37,0.16821724204815564
+AF3,GREMLIN,topL,24,compatible_inputs,precision,native_B_vs_swapped_output,362,321,6,35,0.17369030568640378
+AF3,GREMLIN,topL,24,compatible_inputs,jaccard,native_B_vs_native_A,362,323,0,39,0.1345785965380377
+AF3,GREMLIN,topL,24,compatible_inputs,jaccard,native_B_vs_swapped_output,362,323,1,38,0.1379165127285564
+AF3,MSA Transformer,topL,6,compatible_inputs,precision,native_B_vs_native_A,362,347,2,13,0.5472020015520522
+AF3,MSA Transformer,topL,6,compatible_inputs,precision,native_B_vs_swapped_output,362,345,3,14,0.5469694067234566
+AF3,MSA Transformer,topL,6,compatible_inputs,jaccard,native_B_vs_native_A,362,349,1,12,0.28463994768045237
+AF3,MSA Transformer,topL,6,compatible_inputs,jaccard,native_B_vs_swapped_output,362,347,0,15,0.28382029945447157
+AF3,MSA Transformer,topL,12,compatible_inputs,precision,native_B_vs_native_A,362,347,0,15,0.4914740197337456
+AF3,MSA Transformer,topL,12,compatible_inputs,precision,native_B_vs_swapped_output,362,347,1,14,0.4931217545415085
+AF3,MSA Transformer,topL,12,compatible_inputs,jaccard,native_B_vs_native_A,362,348,0,14,0.29820155360482464
+AF3,MSA Transformer,topL,12,compatible_inputs,jaccard,native_B_vs_swapped_output,362,348,0,14,0.29806196991471784
+AF3,MSA Transformer,topL,24,compatible_inputs,precision,native_B_vs_native_A,362,332,3,27,0.35239861043398024
+AF3,MSA Transformer,topL,24,compatible_inputs,precision,native_B_vs_swapped_output,362,335,3,24,0.35522873440369773
+AF3,MSA Transformer,topL,24,compatible_inputs,jaccard,native_B_vs_native_A,362,335,1,26,0.26274832765915446
+AF3,MSA Transformer,topL,24,compatible_inputs,jaccard,native_B_vs_swapped_output,362,339,1,22,0.26338896967123127

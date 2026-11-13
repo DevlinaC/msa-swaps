@@ -1,0 +1,3 @@
+af,predictions,directed_pairs,threshold,operator,query_ge_0_6,donor_ge_0_6,maximum_donor_tm
+AF2,9050,362,0.6,>=,858,0,0.58064
+AF3,9050,362,0.6,>=,2973,0,0.53587

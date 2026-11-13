@@ -1,0 +1,10 @@
+{
+  "palette": {
+    "query": "#C00000",
+    "donor": "#DAA520",
+    "native_baseline": "#BDBDBD",
+    "swapped_output": "#737373"
+  },
+  "source": "reports/assets/figure_palette.json",
+  "source_sha256": "eb3807fe8901023ce6329bc4e3479a3aed34c68acd071408d7bc62f60a28ee3e"
+}

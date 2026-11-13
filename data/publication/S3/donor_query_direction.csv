@@ -1,0 +1,19 @@
+method,separation,score,n_both_defined,n_B_gt_A,n_equal,n_A_gt_B,n_undefined
+GREMLIN,6,pearson_r,356,356,0,0,6
+GREMLIN,6,zero_offset_r,356,297,0,59,6
+GREMLIN,6,all_eligible_r,362,362,0,0,0
+GREMLIN,12,pearson_r,352,352,0,0,10
+GREMLIN,12,zero_offset_r,352,293,0,59,10
+GREMLIN,12,all_eligible_r,362,362,0,0,0
+GREMLIN,24,pearson_r,340,340,0,0,22
+GREMLIN,24,zero_offset_r,340,272,0,68,22
+GREMLIN,24,all_eligible_r,352,352,0,0,10
+MSA Transformer,6,pearson_r,362,362,0,0,0
+MSA Transformer,6,zero_offset_r,362,362,0,0,0
+MSA Transformer,6,all_eligible_r,362,362,0,0,0
+MSA Transformer,12,pearson_r,362,361,0,1,0
+MSA Transformer,12,zero_offset_r,362,361,0,1,0
+MSA Transformer,12,all_eligible_r,362,362,0,0,0
+MSA Transformer,24,pearson_r,362,359,0,3,0
+MSA Transformer,24,zero_offset_r,362,359,0,3,0
+MSA Transformer,24,all_eligible_r,362,362,0,0,0

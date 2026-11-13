@@ -1,0 +1,793 @@
+method,identifier,columns,retained_columns,score_pairs,usable_score_pairs,n_sequences,max_asymmetry
+GREMLIN,1bor,56,41,1081,820,12067.0,
+MSA Transformer,1bor,56,56,1540,1540,,0.0
+GREMLIN,1bw6,56,48,1326,1128,3358.0,
+MSA Transformer,1bw6,56,56,1540,1540,,0.0
+GREMLIN,1c7m,100,94,4656,4371,14220.0,
+MSA Transformer,1c7m,100,100,4950,4950,,0.0
+GREMLIN,1cqu,56,51,1485,1275,13694.0,
+MSA Transformer,1cqu,56,56,1540,1540,,0.0
+GREMLIN,1de3,150,82,6105,3321,213.0,
+MSA Transformer,1de3,150,150,11175,11175,,0.0
+GREMLIN,1dtk,57,51,1378,1275,14106.0,
+MSA Transformer,1dtk,57,57,1596,1596,,0.0
+GREMLIN,1fex,59,55,1540,1485,3398.0,
+MSA Transformer,1fex,59,59,1711,1711,,0.0
+GREMLIN,1gb1,56,54,1485,1431,185.0,
+MSA Transformer,1gb1,56,56,1540,1540,,0.0
+GREMLIN,1h7v,60,48,1225,1128,13154.0,
+MSA Transformer,1h7v,60,60,1770,1770,,0.0
+GREMLIN,1stb,150,121,8911,7260,9653.0,
+MSA Transformer,1stb,150,150,11175,11175,,0.0
+GREMLIN,1vex,56,50,1326,1225,15390.0,
+MSA Transformer,1vex,56,56,1540,1540,,0.0
+GREMLIN,1z6u,150,51,2346,1275,9557.0,
+MSA Transformer,1z6u,150,150,11175,11175,,0.0
+GREMLIN,2fs1,56,45,1081,990,358.0,
+MSA Transformer,2fs1,56,56,1540,1540,,0.0
+GREMLIN,2jvv,59,52,1540,1326,15722.0,
+MSA Transformer,2jvv,59,59,1711,1711,,0.0
+GREMLIN,2k9h,57,43,1128,903,924.0,
+MSA Transformer,2k9h,57,57,1596,1596,,0.0
+GREMLIN,2mm4,58,58,1653,1653,18.0,
+MSA Transformer,2mm4,58,58,1653,1653,,0.0
+GREMLIN,2nc2,56,56,1540,1540,19.0,
+MSA Transformer,2nc2,56,56,1540,1540,,0.0
+GREMLIN,2ovo,56,39,1128,741,14139.0,
+MSA Transformer,2ovo,56,56,1540,1540,,0.0
+GREMLIN,3h3i,150,130,10878,8385,869.0,
+MSA Transformer,3h3i,150,150,11175,11175,,0.0
+GREMLIN,3l1x,100,67,2850,2211,9615.0,
+MSA Transformer,3l1x,100,100,4950,4950,,0.0
+GREMLIN,4g69,100,62,3828,1891,11543.0,
+MSA Transformer,4g69,100,100,4950,4950,,0.0
+GREMLIN,4ga0,150,53,3655,1378,1576.0,
+MSA Transformer,4ga0,150,150,11175,11175,,0.0
+GREMLIN,4uz2,100,42,946,861,22702.0,
+MSA Transformer,4uz2,100,100,4950,4950,,0.0
+GREMLIN,4zj9,150,108,8128,5778,7269.0,
+MSA Transformer,4zj9,150,150,11175,11175,,0.0
+GREMLIN,5aim,100,85,4278,3570,109.0,
+MSA Transformer,5aim,100,100,4950,4950,,0.0
+GREMLIN,6ls1,100,87,4278,3741,1811.0,
+MSA Transformer,6ls1,100,100,4950,4950,,0.0
+GREMLIN,7cqf,150,69,3486,2346,13291.0,
+MSA Transformer,7cqf,150,150,11175,11175,,0.0
+GREMLIN,7h4z,150,89,9591,3916,976.0,
+MSA Transformer,7h4z,150,150,11175,11175,,0.0
+GREMLIN,7qdv,100,92,4278,4186,182.0,
+MSA Transformer,7qdv,100,100,4950,4950,,0.0
+GREMLIN,7y8h,100,86,4278,3655,6802.0,
+MSA Transformer,7y8h,100,100,4950,4950,,0.0
+GREMLIN,7yuj,150,61,6105,1830,8333.0,
+MSA Transformer,7yuj,150,150,11175,11175,,0.0
+GREMLIN,8jx4,150,96,6903,4560,55.0,
+MSA Transformer,8jx4,150,150,11175,11175,,0.0
+GREMLIN,8ss1,100,73,3655,2628,15.0,
+MSA Transformer,8ss1,100,100,4950,4950,,0.0
+GREMLIN,8vrc,100,77,4371,2926,105.0,
+MSA Transformer,8vrc,100,100,4950,4950,,0.0
+GREMLIN,1bor_1bw6_aligned,56,48,1326,1128,3358.0,
+MSA Transformer,1bor_1bw6_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bor_1cqu_aligned,56,51,1485,1275,13694.0,
+MSA Transformer,1bor_1cqu_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bor_1dtk_aligned,56,51,1378,1275,14083.0,
+MSA Transformer,1bor_1dtk_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bor_1fex_aligned,56,55,1485,1485,3398.0,
+MSA Transformer,1bor_1fex_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bor_1gb1_aligned,56,54,1485,1431,185.0,
+MSA Transformer,1bor_1gb1_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bor_1h7v_aligned,56,48,1225,1128,13154.0,
+MSA Transformer,1bor_1h7v_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bor_1vex_aligned,56,49,1326,1176,15478.0,
+MSA Transformer,1bor_1vex_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bor_2fs1_aligned,56,45,1081,990,358.0,
+MSA Transformer,1bor_2fs1_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bor_2jvv_aligned,56,52,1540,1326,16085.0,
+MSA Transformer,1bor_2jvv_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bor_2k9h_aligned,56,43,1128,903,921.0,
+MSA Transformer,1bor_2k9h_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bor_2mm4_aligned,56,56,1540,1540,18.0,
+MSA Transformer,1bor_2mm4_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bor_2nc2_aligned,56,56,1540,1540,19.0,
+MSA Transformer,1bor_2nc2_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bor_2ovo_aligned,56,39,1128,741,14139.0,
+MSA Transformer,1bor_2ovo_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bw6_1bor_aligned,56,41,1081,820,12008.0,
+MSA Transformer,1bw6_1bor_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bw6_1cqu_aligned,56,51,1485,1275,13694.0,
+MSA Transformer,1bw6_1cqu_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bw6_1dtk_aligned,56,51,1378,1275,14083.0,
+MSA Transformer,1bw6_1dtk_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bw6_1fex_aligned,56,55,1485,1485,3398.0,
+MSA Transformer,1bw6_1fex_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bw6_1gb1_aligned,56,54,1485,1431,185.0,
+MSA Transformer,1bw6_1gb1_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bw6_1h7v_aligned,56,48,1225,1128,13154.0,
+MSA Transformer,1bw6_1h7v_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bw6_1vex_aligned,56,49,1326,1176,15478.0,
+MSA Transformer,1bw6_1vex_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bw6_2fs1_aligned,56,45,1081,990,358.0,
+MSA Transformer,1bw6_2fs1_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bw6_2jvv_aligned,56,52,1540,1326,16085.0,
+MSA Transformer,1bw6_2jvv_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bw6_2k9h_aligned,56,43,1128,903,921.0,
+MSA Transformer,1bw6_2k9h_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bw6_2mm4_aligned,56,56,1540,1540,18.0,
+MSA Transformer,1bw6_2mm4_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bw6_2nc2_aligned,56,56,1540,1540,19.0,
+MSA Transformer,1bw6_2nc2_aligned,56,56,1540,1540,,0.0
+GREMLIN,1bw6_2ovo_aligned,56,39,1128,741,14139.0,
+MSA Transformer,1bw6_2ovo_aligned,56,56,1540,1540,,0.0
+GREMLIN,1c7m_3l1x_aligned,100,67,2850,2211,9615.0,
+MSA Transformer,1c7m_3l1x_aligned,100,100,4950,4950,,0.0
+GREMLIN,1c7m_4g69_aligned,100,62,3828,1891,11543.0,
+MSA Transformer,1c7m_4g69_aligned,100,100,4950,4950,,0.0
+GREMLIN,1c7m_4uz2_aligned,100,42,946,861,22702.0,
+MSA Transformer,1c7m_4uz2_aligned,100,100,4950,4950,,0.0
+GREMLIN,1c7m_5aim_aligned,100,85,4278,3570,109.0,
+MSA Transformer,1c7m_5aim_aligned,100,100,4950,4950,,0.0
+GREMLIN,1c7m_6ls1_aligned,100,87,4278,3741,1811.0,
+MSA Transformer,1c7m_6ls1_aligned,100,100,4950,4950,,0.0
+GREMLIN,1c7m_7qdv_aligned,100,92,4278,4186,182.0,
+MSA Transformer,1c7m_7qdv_aligned,100,100,4950,4950,,0.0
+GREMLIN,1c7m_7y8h_aligned,100,86,4278,3655,6802.0,
+MSA Transformer,1c7m_7y8h_aligned,100,100,4950,4950,,0.0
+GREMLIN,1c7m_8ss1_aligned,100,73,3655,2628,15.0,
+MSA Transformer,1c7m_8ss1_aligned,100,100,4950,4950,,0.0
+GREMLIN,1c7m_8vrc_aligned,100,77,4371,2926,105.0,
+MSA Transformer,1c7m_8vrc_aligned,100,100,4950,4950,,0.0
+GREMLIN,1cqu_1bor_aligned,56,41,1081,820,12008.0,
+MSA Transformer,1cqu_1bor_aligned,56,56,1540,1540,,0.0
+GREMLIN,1cqu_1bw6_aligned,56,48,1326,1128,3358.0,
+MSA Transformer,1cqu_1bw6_aligned,56,56,1540,1540,,0.0
+GREMLIN,1cqu_1dtk_aligned,56,51,1378,1275,14083.0,
+MSA Transformer,1cqu_1dtk_aligned,56,56,1540,1540,,0.0
+GREMLIN,1cqu_1fex_aligned,56,55,1485,1485,3398.0,
+MSA Transformer,1cqu_1fex_aligned,56,56,1540,1540,,0.0
+GREMLIN,1cqu_1gb1_aligned,56,54,1485,1431,185.0,
+MSA Transformer,1cqu_1gb1_aligned,56,56,1540,1540,,0.0
+GREMLIN,1cqu_1h7v_aligned,56,48,1225,1128,13154.0,
+MSA Transformer,1cqu_1h7v_aligned,56,56,1540,1540,,0.0
+GREMLIN,1cqu_1vex_aligned,56,49,1326,1176,15478.0,
+MSA Transformer,1cqu_1vex_aligned,56,56,1540,1540,,0.0
+GREMLIN,1cqu_2fs1_aligned,56,45,1081,990,358.0,
+MSA Transformer,1cqu_2fs1_aligned,56,56,1540,1540,,0.0
+GREMLIN,1cqu_2jvv_aligned,56,52,1540,1326,16085.0,
+MSA Transformer,1cqu_2jvv_aligned,56,56,1540,1540,,0.0
+GREMLIN,1cqu_2k9h_aligned,56,43,1128,903,921.0,
+MSA Transformer,1cqu_2k9h_aligned,56,56,1540,1540,,0.0
+GREMLIN,1cqu_2mm4_aligned,56,56,1540,1540,18.0,
+MSA Transformer,1cqu_2mm4_aligned,56,56,1540,1540,,0.0
+GREMLIN,1cqu_2nc2_aligned,56,56,1540,1540,19.0,
+MSA Transformer,1cqu_2nc2_aligned,56,56,1540,1540,,0.0
+GREMLIN,1cqu_2ovo_aligned,56,39,1128,741,14139.0,
+MSA Transformer,1cqu_2ovo_aligned,56,56,1540,1540,,0.0
+GREMLIN,1de3_1stb_aligned,150,121,8911,7260,9653.0,
+MSA Transformer,1de3_1stb_aligned,150,150,11175,11175,,0.0
+GREMLIN,1de3_1z6u_aligned,150,51,2346,1275,9557.0,
+MSA Transformer,1de3_1z6u_aligned,150,150,11175,11175,,0.0
+GREMLIN,1de3_3h3i_aligned,150,130,10878,8385,869.0,
+MSA Transformer,1de3_3h3i_aligned,150,150,11175,11175,,0.0
+GREMLIN,1de3_4ga0_aligned,150,53,3655,1378,1576.0,
+MSA Transformer,1de3_4ga0_aligned,150,150,11175,11175,,0.0
+GREMLIN,1de3_4zj9_aligned,150,108,8128,5778,7269.0,
+MSA Transformer,1de3_4zj9_aligned,150,150,11175,11175,,0.0
+GREMLIN,1de3_7cqf_aligned,150,69,3486,2346,13291.0,
+MSA Transformer,1de3_7cqf_aligned,150,150,11175,11175,,0.0
+GREMLIN,1de3_7h4z_aligned,150,89,9591,3916,976.0,
+MSA Transformer,1de3_7h4z_aligned,150,150,11175,11175,,0.0
+GREMLIN,1de3_7yuj_aligned,150,61,6105,1830,8333.0,
+MSA Transformer,1de3_7yuj_aligned,150,150,11175,11175,,0.0
+GREMLIN,1de3_8jx4_aligned,150,96,6903,4560,55.0,
+MSA Transformer,1de3_8jx4_aligned,150,150,11175,11175,,0.0
+GREMLIN,1dtk_1bor_aligned,57,41,1081,820,12008.0,
+MSA Transformer,1dtk_1bor_aligned,57,57,1596,1596,,0.0
+GREMLIN,1dtk_1bw6_aligned,57,48,1326,1128,3358.0,
+MSA Transformer,1dtk_1bw6_aligned,57,57,1596,1596,,0.0
+GREMLIN,1dtk_1cqu_aligned,57,51,1485,1275,13694.0,
+MSA Transformer,1dtk_1cqu_aligned,57,57,1596,1596,,0.0
+GREMLIN,1dtk_1fex_aligned,57,55,1540,1485,3398.0,
+MSA Transformer,1dtk_1fex_aligned,57,57,1596,1596,,0.0
+GREMLIN,1dtk_1gb1_aligned,57,54,1485,1431,185.0,
+MSA Transformer,1dtk_1gb1_aligned,57,57,1596,1596,,0.0
+GREMLIN,1dtk_1h7v_aligned,57,48,1225,1128,13154.0,
+MSA Transformer,1dtk_1h7v_aligned,57,57,1596,1596,,0.0
+GREMLIN,1dtk_1vex_aligned,57,49,1326,1176,15478.0,
+MSA Transformer,1dtk_1vex_aligned,57,57,1596,1596,,0.0
+GREMLIN,1dtk_2fs1_aligned,57,45,1081,990,358.0,
+MSA Transformer,1dtk_2fs1_aligned,57,57,1596,1596,,0.0
+GREMLIN,1dtk_2jvv_aligned,57,52,1540,1326,16085.0,
+MSA Transformer,1dtk_2jvv_aligned,57,57,1596,1596,,0.0
+GREMLIN,1dtk_2k9h_aligned,57,43,1128,903,921.0,
+MSA Transformer,1dtk_2k9h_aligned,57,57,1596,1596,,0.0
+GREMLIN,1dtk_2mm4_aligned,57,57,1596,1596,18.0,
+MSA Transformer,1dtk_2mm4_aligned,57,57,1596,1596,,0.0
+GREMLIN,1dtk_2nc2_aligned,57,56,1540,1540,19.0,
+MSA Transformer,1dtk_2nc2_aligned,57,57,1596,1596,,0.0
+GREMLIN,1dtk_2ovo_aligned,57,39,1128,741,14139.0,
+MSA Transformer,1dtk_2ovo_aligned,57,57,1596,1596,,0.0
+GREMLIN,1fex_1bor_aligned,59,41,1081,820,12008.0,
+MSA Transformer,1fex_1bor_aligned,59,59,1711,1711,,0.0
+GREMLIN,1fex_1bw6_aligned,59,48,1326,1128,3358.0,
+MSA Transformer,1fex_1bw6_aligned,59,59,1711,1711,,0.0
+GREMLIN,1fex_1cqu_aligned,59,51,1485,1275,13694.0,
+MSA Transformer,1fex_1cqu_aligned,59,59,1711,1711,,0.0
+GREMLIN,1fex_1dtk_aligned,59,51,1378,1275,14083.0,
+MSA Transformer,1fex_1dtk_aligned,59,59,1711,1711,,0.0
+GREMLIN,1fex_1gb1_aligned,59,54,1485,1431,185.0,
+MSA Transformer,1fex_1gb1_aligned,59,59,1711,1711,,0.0
+GREMLIN,1fex_1h7v_aligned,59,48,1225,1128,13154.0,
+MSA Transformer,1fex_1h7v_aligned,59,59,1711,1711,,0.0
+GREMLIN,1fex_1vex_aligned,59,49,1326,1176,15478.0,
+MSA Transformer,1fex_1vex_aligned,59,59,1711,1711,,0.0
+GREMLIN,1fex_2fs1_aligned,59,45,1081,990,358.0,
+MSA Transformer,1fex_2fs1_aligned,59,59,1711,1711,,0.0
+GREMLIN,1fex_2jvv_aligned,59,52,1540,1326,16085.0,
+MSA Transformer,1fex_2jvv_aligned,59,59,1711,1711,,0.0
+GREMLIN,1fex_2k9h_aligned,59,43,1128,903,921.0,
+MSA Transformer,1fex_2k9h_aligned,59,59,1711,1711,,0.0
+GREMLIN,1fex_2mm4_aligned,59,58,1653,1653,18.0,
+MSA Transformer,1fex_2mm4_aligned,59,59,1711,1711,,0.0
+GREMLIN,1fex_2nc2_aligned,59,56,1540,1540,19.0,
+MSA Transformer,1fex_2nc2_aligned,59,59,1711,1711,,0.0
+GREMLIN,1fex_2ovo_aligned,59,39,1128,741,14139.0,
+MSA Transformer,1fex_2ovo_aligned,59,59,1711,1711,,0.0
+GREMLIN,1gb1_1bor_aligned,56,41,1081,820,12008.0,
+MSA Transformer,1gb1_1bor_aligned,56,56,1540,1540,,0.0
+GREMLIN,1gb1_1bw6_aligned,56,48,1326,1128,3358.0,
+MSA Transformer,1gb1_1bw6_aligned,56,56,1540,1540,,0.0
+GREMLIN,1gb1_1cqu_aligned,56,51,1485,1275,13694.0,
+MSA Transformer,1gb1_1cqu_aligned,56,56,1540,1540,,0.0
+GREMLIN,1gb1_1dtk_aligned,56,51,1378,1275,14083.0,
+MSA Transformer,1gb1_1dtk_aligned,56,56,1540,1540,,0.0
+GREMLIN,1gb1_1fex_aligned,56,55,1485,1485,3398.0,
+MSA Transformer,1gb1_1fex_aligned,56,56,1540,1540,,0.0
+GREMLIN,1gb1_1h7v_aligned,56,48,1225,1128,13154.0,
+MSA Transformer,1gb1_1h7v_aligned,56,56,1540,1540,,0.0
+GREMLIN,1gb1_1vex_aligned,56,49,1326,1176,15478.0,
+MSA Transformer,1gb1_1vex_aligned,56,56,1540,1540,,0.0
+GREMLIN,1gb1_2fs1_aligned,56,45,1081,990,358.0,
+MSA Transformer,1gb1_2fs1_aligned,56,56,1540,1540,,0.0
+GREMLIN,1gb1_2jvv_aligned,56,52,1540,1326,16085.0,
+MSA Transformer,1gb1_2jvv_aligned,56,56,1540,1540,,0.0
+GREMLIN,1gb1_2k9h_aligned,56,43,1128,903,921.0,
+MSA Transformer,1gb1_2k9h_aligned,56,56,1540,1540,,0.0
+GREMLIN,1gb1_2mm4_aligned,56,56,1540,1540,18.0,
+MSA Transformer,1gb1_2mm4_aligned,56,56,1540,1540,,0.0
+GREMLIN,1gb1_2nc2_aligned,56,56,1540,1540,19.0,
+MSA Transformer,1gb1_2nc2_aligned,56,56,1540,1540,,0.0
+GREMLIN,1gb1_2ovo_aligned,56,39,1128,741,14139.0,
+MSA Transformer,1gb1_2ovo_aligned,56,56,1540,1540,,0.0
+GREMLIN,1h7v_1bor_aligned,60,41,1081,820,12008.0,
+MSA Transformer,1h7v_1bor_aligned,60,60,1770,1770,,0.0
+GREMLIN,1h7v_1bw6_aligned,60,48,1326,1128,3358.0,
+MSA Transformer,1h7v_1bw6_aligned,60,60,1770,1770,,0.0
+GREMLIN,1h7v_1cqu_aligned,60,51,1485,1275,13694.0,
+MSA Transformer,1h7v_1cqu_aligned,60,60,1770,1770,,0.0
+GREMLIN,1h7v_1dtk_aligned,60,51,1378,1275,14083.0,
+MSA Transformer,1h7v_1dtk_aligned,60,60,1770,1770,,0.0
+GREMLIN,1h7v_1fex_aligned,60,55,1540,1485,3398.0,
+MSA Transformer,1h7v_1fex_aligned,60,60,1770,1770,,0.0
+GREMLIN,1h7v_1gb1_aligned,60,54,1485,1431,185.0,
+MSA Transformer,1h7v_1gb1_aligned,60,60,1770,1770,,0.0
+GREMLIN,1h7v_1vex_aligned,60,49,1326,1176,15478.0,
+MSA Transformer,1h7v_1vex_aligned,60,60,1770,1770,,0.0
+GREMLIN,1h7v_2fs1_aligned,60,45,1081,990,358.0,
+MSA Transformer,1h7v_2fs1_aligned,60,60,1770,1770,,0.0
+GREMLIN,1h7v_2jvv_aligned,60,52,1540,1326,16085.0,
+MSA Transformer,1h7v_2jvv_aligned,60,60,1770,1770,,0.0
+GREMLIN,1h7v_2k9h_aligned,60,43,1128,903,921.0,
+MSA Transformer,1h7v_2k9h_aligned,60,60,1770,1770,,0.0
+GREMLIN,1h7v_2mm4_aligned,60,58,1653,1653,18.0,
+MSA Transformer,1h7v_2mm4_aligned,60,60,1770,1770,,0.0
+GREMLIN,1h7v_2nc2_aligned,60,56,1540,1540,19.0,
+MSA Transformer,1h7v_2nc2_aligned,60,60,1770,1770,,0.0
+GREMLIN,1h7v_2ovo_aligned,60,39,1128,741,14139.0,
+MSA Transformer,1h7v_2ovo_aligned,60,60,1770,1770,,0.0
+GREMLIN,1stb_1de3_aligned,150,82,6105,3321,213.0,
+MSA Transformer,1stb_1de3_aligned,150,150,11175,11175,,0.0
+GREMLIN,1stb_1z6u_aligned,150,51,2346,1275,9557.0,
+MSA Transformer,1stb_1z6u_aligned,150,150,11175,11175,,0.0
+GREMLIN,1stb_3h3i_aligned,150,130,10878,8385,869.0,
+MSA Transformer,1stb_3h3i_aligned,150,150,11175,11175,,0.0
+GREMLIN,1stb_4ga0_aligned,150,53,3655,1378,1576.0,
+MSA Transformer,1stb_4ga0_aligned,150,150,11175,11175,,0.0
+GREMLIN,1stb_4zj9_aligned,150,108,8128,5778,7269.0,
+MSA Transformer,1stb_4zj9_aligned,150,150,11175,11175,,0.0
+GREMLIN,1stb_7cqf_aligned,150,69,3486,2346,13291.0,
+MSA Transformer,1stb_7cqf_aligned,150,150,11175,11175,,0.0
+GREMLIN,1stb_7h4z_aligned,150,89,9591,3916,976.0,
+MSA Transformer,1stb_7h4z_aligned,150,150,11175,11175,,0.0
+GREMLIN,1stb_7yuj_aligned,150,61,6105,1830,8333.0,
+MSA Transformer,1stb_7yuj_aligned,150,150,11175,11175,,0.0
+GREMLIN,1stb_8jx4_aligned,150,96,6903,4560,55.0,
+MSA Transformer,1stb_8jx4_aligned,150,150,11175,11175,,0.0
+GREMLIN,1vex_1bor_aligned,56,41,1081,820,12008.0,
+MSA Transformer,1vex_1bor_aligned,56,56,1540,1540,,0.0
+GREMLIN,1vex_1bw6_aligned,56,48,1326,1128,3358.0,
+MSA Transformer,1vex_1bw6_aligned,56,56,1540,1540,,0.0
+GREMLIN,1vex_1cqu_aligned,56,51,1485,1275,13694.0,
+MSA Transformer,1vex_1cqu_aligned,56,56,1540,1540,,0.0
+GREMLIN,1vex_1dtk_aligned,56,51,1378,1275,14083.0,
+MSA Transformer,1vex_1dtk_aligned,56,56,1540,1540,,0.0
+GREMLIN,1vex_1fex_aligned,56,55,1485,1485,3398.0,
+MSA Transformer,1vex_1fex_aligned,56,56,1540,1540,,0.0
+GREMLIN,1vex_1gb1_aligned,56,54,1485,1431,185.0,
+MSA Transformer,1vex_1gb1_aligned,56,56,1540,1540,,0.0
+GREMLIN,1vex_1h7v_aligned,56,48,1225,1128,13154.0,
+MSA Transformer,1vex_1h7v_aligned,56,56,1540,1540,,0.0
+GREMLIN,1vex_2fs1_aligned,56,45,1081,990,358.0,
+MSA Transformer,1vex_2fs1_aligned,56,56,1540,1540,,0.0
+GREMLIN,1vex_2jvv_aligned,56,52,1540,1326,16085.0,
+MSA Transformer,1vex_2jvv_aligned,56,56,1540,1540,,0.0
+GREMLIN,1vex_2k9h_aligned,56,43,1128,903,921.0,
+MSA Transformer,1vex_2k9h_aligned,56,56,1540,1540,,0.0
+GREMLIN,1vex_2mm4_aligned,56,56,1540,1540,18.0,
+MSA Transformer,1vex_2mm4_aligned,56,56,1540,1540,,0.0
+GREMLIN,1vex_2nc2_aligned,56,56,1540,1540,19.0,
+MSA Transformer,1vex_2nc2_aligned,56,56,1540,1540,,0.0
+GREMLIN,1vex_2ovo_aligned,56,39,1128,741,14139.0,
+MSA Transformer,1vex_2ovo_aligned,56,56,1540,1540,,0.0
+GREMLIN,1z6u_1de3_aligned,150,82,6105,3321,213.0,
+MSA Transformer,1z6u_1de3_aligned,150,150,11175,11175,,0.0
+GREMLIN,1z6u_1stb_aligned,150,121,8911,7260,9653.0,
+MSA Transformer,1z6u_1stb_aligned,150,150,11175,11175,,0.0
+GREMLIN,1z6u_3h3i_aligned,150,130,10878,8385,869.0,
+MSA Transformer,1z6u_3h3i_aligned,150,150,11175,11175,,0.0
+GREMLIN,1z6u_4ga0_aligned,150,53,3655,1378,1576.0,
+MSA Transformer,1z6u_4ga0_aligned,150,150,11175,11175,,0.0
+GREMLIN,1z6u_4zj9_aligned,150,108,8128,5778,7269.0,
+MSA Transformer,1z6u_4zj9_aligned,150,150,11175,11175,,0.0
+GREMLIN,1z6u_7cqf_aligned,150,69,3486,2346,13291.0,
+MSA Transformer,1z6u_7cqf_aligned,150,150,11175,11175,,0.0
+GREMLIN,1z6u_7h4z_aligned,150,89,9591,3916,976.0,
+MSA Transformer,1z6u_7h4z_aligned,150,150,11175,11175,,0.0
+GREMLIN,1z6u_7yuj_aligned,150,61,6105,1830,8333.0,
+MSA Transformer,1z6u_7yuj_aligned,150,150,11175,11175,,0.0
+GREMLIN,1z6u_8jx4_aligned,150,96,6903,4560,55.0,
+MSA Transformer,1z6u_8jx4_aligned,150,150,11175,11175,,0.0
+GREMLIN,2fs1_1bor_aligned,56,41,1081,820,12008.0,
+MSA Transformer,2fs1_1bor_aligned,56,56,1540,1540,,0.0
+GREMLIN,2fs1_1bw6_aligned,56,48,1326,1128,3358.0,
+MSA Transformer,2fs1_1bw6_aligned,56,56,1540,1540,,0.0
+GREMLIN,2fs1_1cqu_aligned,56,51,1485,1275,13694.0,
+MSA Transformer,2fs1_1cqu_aligned,56,56,1540,1540,,0.0
+GREMLIN,2fs1_1dtk_aligned,56,51,1378,1275,14083.0,
+MSA Transformer,2fs1_1dtk_aligned,56,56,1540,1540,,0.0
+GREMLIN,2fs1_1fex_aligned,56,55,1485,1485,3398.0,
+MSA Transformer,2fs1_1fex_aligned,56,56,1540,1540,,0.0
+GREMLIN,2fs1_1gb1_aligned,56,54,1485,1431,185.0,
+MSA Transformer,2fs1_1gb1_aligned,56,56,1540,1540,,0.0
+GREMLIN,2fs1_1h7v_aligned,56,48,1225,1128,13154.0,
+MSA Transformer,2fs1_1h7v_aligned,56,56,1540,1540,,0.0
+GREMLIN,2fs1_1vex_aligned,56,49,1326,1176,15478.0,
+MSA Transformer,2fs1_1vex_aligned,56,56,1540,1540,,0.0
+GREMLIN,2fs1_2jvv_aligned,56,52,1540,1326,16085.0,
+MSA Transformer,2fs1_2jvv_aligned,56,56,1540,1540,,0.0
+GREMLIN,2fs1_2k9h_aligned,56,43,1128,903,921.0,
+MSA Transformer,2fs1_2k9h_aligned,56,56,1540,1540,,0.0
+GREMLIN,2fs1_2mm4_aligned,56,56,1540,1540,18.0,
+MSA Transformer,2fs1_2mm4_aligned,56,56,1540,1540,,0.0
+GREMLIN,2fs1_2nc2_aligned,56,56,1540,1540,19.0,
+MSA Transformer,2fs1_2nc2_aligned,56,56,1540,1540,,0.0
+GREMLIN,2fs1_2ovo_aligned,56,39,1128,741,14139.0,
+MSA Transformer,2fs1_2ovo_aligned,56,56,1540,1540,,0.0
+GREMLIN,2jvv_1bor_aligned,59,41,1081,820,12008.0,
+MSA Transformer,2jvv_1bor_aligned,59,59,1711,1711,,0.0
+GREMLIN,2jvv_1bw6_aligned,59,48,1326,1128,3358.0,
+MSA Transformer,2jvv_1bw6_aligned,59,59,1711,1711,,0.0
+GREMLIN,2jvv_1cqu_aligned,59,51,1485,1275,13694.0,
+MSA Transformer,2jvv_1cqu_aligned,59,59,1711,1711,,0.0
+GREMLIN,2jvv_1dtk_aligned,59,51,1378,1275,14083.0,
+MSA Transformer,2jvv_1dtk_aligned,59,59,1711,1711,,0.0
+GREMLIN,2jvv_1fex_aligned,59,55,1540,1485,3398.0,
+MSA Transformer,2jvv_1fex_aligned,59,59,1711,1711,,0.0
+GREMLIN,2jvv_1gb1_aligned,59,54,1485,1431,185.0,
+MSA Transformer,2jvv_1gb1_aligned,59,59,1711,1711,,0.0
+GREMLIN,2jvv_1h7v_aligned,59,48,1225,1128,13154.0,
+MSA Transformer,2jvv_1h7v_aligned,59,59,1711,1711,,0.0
+GREMLIN,2jvv_1vex_aligned,59,49,1326,1176,15478.0,
+MSA Transformer,2jvv_1vex_aligned,59,59,1711,1711,,0.0
+GREMLIN,2jvv_2fs1_aligned,59,45,1081,990,358.0,
+MSA Transformer,2jvv_2fs1_aligned,59,59,1711,1711,,0.0
+GREMLIN,2jvv_2k9h_aligned,59,43,1128,903,921.0,
+MSA Transformer,2jvv_2k9h_aligned,59,59,1711,1711,,0.0
+GREMLIN,2jvv_2mm4_aligned,59,58,1653,1653,18.0,
+MSA Transformer,2jvv_2mm4_aligned,59,59,1711,1711,,0.0
+GREMLIN,2jvv_2nc2_aligned,59,56,1540,1540,19.0,
+MSA Transformer,2jvv_2nc2_aligned,59,59,1711,1711,,0.0
+GREMLIN,2jvv_2ovo_aligned,59,39,1128,741,14139.0,
+MSA Transformer,2jvv_2ovo_aligned,59,59,1711,1711,,0.0
+GREMLIN,2k9h_1bor_aligned,57,41,1081,820,12008.0,
+MSA Transformer,2k9h_1bor_aligned,57,57,1596,1596,,0.0
+GREMLIN,2k9h_1bw6_aligned,57,48,1326,1128,3358.0,
+MSA Transformer,2k9h_1bw6_aligned,57,57,1596,1596,,0.0
+GREMLIN,2k9h_1cqu_aligned,57,51,1485,1275,13694.0,
+MSA Transformer,2k9h_1cqu_aligned,57,57,1596,1596,,0.0
+GREMLIN,2k9h_1dtk_aligned,57,51,1378,1275,14083.0,
+MSA Transformer,2k9h_1dtk_aligned,57,57,1596,1596,,0.0
+GREMLIN,2k9h_1fex_aligned,57,55,1540,1485,3398.0,
+MSA Transformer,2k9h_1fex_aligned,57,57,1596,1596,,0.0
+GREMLIN,2k9h_1gb1_aligned,57,54,1485,1431,185.0,
+MSA Transformer,2k9h_1gb1_aligned,57,57,1596,1596,,0.0
+GREMLIN,2k9h_1h7v_aligned,57,48,1225,1128,13154.0,
+MSA Transformer,2k9h_1h7v_aligned,57,57,1596,1596,,0.0
+GREMLIN,2k9h_1vex_aligned,57,49,1326,1176,15478.0,
+MSA Transformer,2k9h_1vex_aligned,57,57,1596,1596,,0.0
+GREMLIN,2k9h_2fs1_aligned,57,45,1081,990,358.0,
+MSA Transformer,2k9h_2fs1_aligned,57,57,1596,1596,,0.0
+GREMLIN,2k9h_2jvv_aligned,57,52,1540,1326,16085.0,
+MSA Transformer,2k9h_2jvv_aligned,57,57,1596,1596,,0.0
+GREMLIN,2k9h_2mm4_aligned,57,57,1596,1596,18.0,
+MSA Transformer,2k9h_2mm4_aligned,57,57,1596,1596,,0.0
+GREMLIN,2k9h_2nc2_aligned,57,56,1540,1540,19.0,
+MSA Transformer,2k9h_2nc2_aligned,57,57,1596,1596,,0.0
+GREMLIN,2k9h_2ovo_aligned,57,39,1128,741,14139.0,
+MSA Transformer,2k9h_2ovo_aligned,57,57,1596,1596,,0.0
+GREMLIN,2mm4_1bor_aligned,58,41,1081,820,12008.0,
+MSA Transformer,2mm4_1bor_aligned,58,58,1653,1653,,0.0
+GREMLIN,2mm4_1bw6_aligned,58,48,1326,1128,3358.0,
+MSA Transformer,2mm4_1bw6_aligned,58,58,1653,1653,,0.0
+GREMLIN,2mm4_1cqu_aligned,58,51,1485,1275,13694.0,
+MSA Transformer,2mm4_1cqu_aligned,58,58,1653,1653,,0.0
+GREMLIN,2mm4_1dtk_aligned,58,51,1378,1275,14083.0,
+MSA Transformer,2mm4_1dtk_aligned,58,58,1653,1653,,0.0
+GREMLIN,2mm4_1fex_aligned,58,55,1540,1485,3398.0,
+MSA Transformer,2mm4_1fex_aligned,58,58,1653,1653,,0.0
+GREMLIN,2mm4_1gb1_aligned,58,54,1485,1431,185.0,
+MSA Transformer,2mm4_1gb1_aligned,58,58,1653,1653,,0.0
+GREMLIN,2mm4_1h7v_aligned,58,48,1225,1128,13154.0,
+MSA Transformer,2mm4_1h7v_aligned,58,58,1653,1653,,0.0
+GREMLIN,2mm4_1vex_aligned,58,49,1326,1176,15478.0,
+MSA Transformer,2mm4_1vex_aligned,58,58,1653,1653,,0.0
+GREMLIN,2mm4_2fs1_aligned,58,45,1081,990,358.0,
+MSA Transformer,2mm4_2fs1_aligned,58,58,1653,1653,,0.0
+GREMLIN,2mm4_2jvv_aligned,58,52,1540,1326,16085.0,
+MSA Transformer,2mm4_2jvv_aligned,58,58,1653,1653,,0.0
+GREMLIN,2mm4_2k9h_aligned,58,43,1128,903,921.0,
+MSA Transformer,2mm4_2k9h_aligned,58,58,1653,1653,,0.0
+GREMLIN,2mm4_2nc2_aligned,58,56,1540,1540,19.0,
+MSA Transformer,2mm4_2nc2_aligned,58,58,1653,1653,,0.0
+GREMLIN,2mm4_2ovo_aligned,58,39,1128,741,14139.0,
+MSA Transformer,2mm4_2ovo_aligned,58,58,1653,1653,,0.0
+GREMLIN,2nc2_1bor_aligned,56,41,1081,820,12008.0,
+MSA Transformer,2nc2_1bor_aligned,56,56,1540,1540,,0.0
+GREMLIN,2nc2_1bw6_aligned,56,48,1326,1128,3358.0,
+MSA Transformer,2nc2_1bw6_aligned,56,56,1540,1540,,0.0
+GREMLIN,2nc2_1cqu_aligned,56,51,1485,1275,13694.0,
+MSA Transformer,2nc2_1cqu_aligned,56,56,1540,1540,,0.0
+GREMLIN,2nc2_1dtk_aligned,56,51,1378,1275,14083.0,
+MSA Transformer,2nc2_1dtk_aligned,56,56,1540,1540,,0.0
+GREMLIN,2nc2_1fex_aligned,56,55,1485,1485,3398.0,
+MSA Transformer,2nc2_1fex_aligned,56,56,1540,1540,,0.0
+GREMLIN,2nc2_1gb1_aligned,56,54,1485,1431,185.0,
+MSA Transformer,2nc2_1gb1_aligned,56,56,1540,1540,,0.0
+GREMLIN,2nc2_1h7v_aligned,56,48,1225,1128,13154.0,
+MSA Transformer,2nc2_1h7v_aligned,56,56,1540,1540,,0.0
+GREMLIN,2nc2_1vex_aligned,56,49,1326,1176,15478.0,
+MSA Transformer,2nc2_1vex_aligned,56,56,1540,1540,,0.0
+GREMLIN,2nc2_2fs1_aligned,56,45,1081,990,358.0,
+MSA Transformer,2nc2_2fs1_aligned,56,56,1540,1540,,0.0
+GREMLIN,2nc2_2jvv_aligned,56,52,1540,1326,16085.0,
+MSA Transformer,2nc2_2jvv_aligned,56,56,1540,1540,,0.0
+GREMLIN,2nc2_2k9h_aligned,56,43,1128,903,921.0,
+MSA Transformer,2nc2_2k9h_aligned,56,56,1540,1540,,0.0
+GREMLIN,2nc2_2mm4_aligned,56,56,1540,1540,18.0,
+MSA Transformer,2nc2_2mm4_aligned,56,56,1540,1540,,0.0
+GREMLIN,2nc2_2ovo_aligned,56,39,1128,741,14139.0,
+MSA Transformer,2nc2_2ovo_aligned,56,56,1540,1540,,0.0
+GREMLIN,2ovo_1bor_aligned,56,41,1081,820,12008.0,
+MSA Transformer,2ovo_1bor_aligned,56,56,1540,1540,,0.0
+GREMLIN,2ovo_1bw6_aligned,56,48,1326,1128,3358.0,
+MSA Transformer,2ovo_1bw6_aligned,56,56,1540,1540,,0.0
+GREMLIN,2ovo_1cqu_aligned,56,51,1485,1275,13694.0,
+MSA Transformer,2ovo_1cqu_aligned,56,56,1540,1540,,0.0
+GREMLIN,2ovo_1dtk_aligned,56,51,1378,1275,14083.0,
+MSA Transformer,2ovo_1dtk_aligned,56,56,1540,1540,,0.0
+GREMLIN,2ovo_1fex_aligned,56,55,1485,1485,3398.0,
+MSA Transformer,2ovo_1fex_aligned,56,56,1540,1540,,0.0
+GREMLIN,2ovo_1gb1_aligned,56,54,1485,1431,185.0,
+MSA Transformer,2ovo_1gb1_aligned,56,56,1540,1540,,0.0
+GREMLIN,2ovo_1h7v_aligned,56,48,1225,1128,13154.0,
+MSA Transformer,2ovo_1h7v_aligned,56,56,1540,1540,,0.0
+GREMLIN,2ovo_1vex_aligned,56,49,1326,1176,15478.0,
+MSA Transformer,2ovo_1vex_aligned,56,56,1540,1540,,0.0
+GREMLIN,2ovo_2fs1_aligned,56,45,1081,990,358.0,
+MSA Transformer,2ovo_2fs1_aligned,56,56,1540,1540,,0.0
+GREMLIN,2ovo_2jvv_aligned,56,52,1540,1326,16085.0,
+MSA Transformer,2ovo_2jvv_aligned,56,56,1540,1540,,0.0
+GREMLIN,2ovo_2k9h_aligned,56,43,1128,903,921.0,
+MSA Transformer,2ovo_2k9h_aligned,56,56,1540,1540,,0.0
+GREMLIN,2ovo_2mm4_aligned,56,56,1540,1540,18.0,
+MSA Transformer,2ovo_2mm4_aligned,56,56,1540,1540,,0.0
+GREMLIN,2ovo_2nc2_aligned,56,56,1540,1540,19.0,
+MSA Transformer,2ovo_2nc2_aligned,56,56,1540,1540,,0.0
+GREMLIN,3h3i_1de3_aligned,150,82,6105,3321,213.0,
+MSA Transformer,3h3i_1de3_aligned,150,150,11175,11175,,0.0
+GREMLIN,3h3i_1stb_aligned,150,121,8911,7260,9653.0,
+MSA Transformer,3h3i_1stb_aligned,150,150,11175,11175,,0.0
+GREMLIN,3h3i_1z6u_aligned,150,51,2346,1275,9557.0,
+MSA Transformer,3h3i_1z6u_aligned,150,150,11175,11175,,0.0
+GREMLIN,3h3i_4ga0_aligned,150,53,3655,1378,1576.0,
+MSA Transformer,3h3i_4ga0_aligned,150,150,11175,11175,,0.0
+GREMLIN,3h3i_4zj9_aligned,150,108,8128,5778,7269.0,
+MSA Transformer,3h3i_4zj9_aligned,150,150,11175,11175,,0.0
+GREMLIN,3h3i_7cqf_aligned,150,69,3486,2346,13291.0,
+MSA Transformer,3h3i_7cqf_aligned,150,150,11175,11175,,0.0
+GREMLIN,3h3i_7h4z_aligned,150,89,9591,3916,976.0,
+MSA Transformer,3h3i_7h4z_aligned,150,150,11175,11175,,0.0
+GREMLIN,3h3i_7yuj_aligned,150,61,6105,1830,8333.0,
+MSA Transformer,3h3i_7yuj_aligned,150,150,11175,11175,,0.0
+GREMLIN,3h3i_8jx4_aligned,150,96,6903,4560,55.0,
+MSA Transformer,3h3i_8jx4_aligned,150,150,11175,11175,,0.0
+GREMLIN,3l1x_1c7m_aligned,100,94,4656,4371,14220.0,
+MSA Transformer,3l1x_1c7m_aligned,100,100,4950,4950,,0.0
+GREMLIN,3l1x_4g69_aligned,100,62,3828,1891,11543.0,
+MSA Transformer,3l1x_4g69_aligned,100,100,4950,4950,,0.0
+GREMLIN,3l1x_4uz2_aligned,100,42,946,861,22702.0,
+MSA Transformer,3l1x_4uz2_aligned,100,100,4950,4950,,0.0
+GREMLIN,3l1x_5aim_aligned,100,85,4278,3570,109.0,
+MSA Transformer,3l1x_5aim_aligned,100,100,4950,4950,,0.0
+GREMLIN,3l1x_6ls1_aligned,100,87,4278,3741,1811.0,
+MSA Transformer,3l1x_6ls1_aligned,100,100,4950,4950,,0.0
+GREMLIN,3l1x_7qdv_aligned,100,92,4278,4186,182.0,
+MSA Transformer,3l1x_7qdv_aligned,100,100,4950,4950,,0.0
+GREMLIN,3l1x_7y8h_aligned,100,86,4278,3655,6802.0,
+MSA Transformer,3l1x_7y8h_aligned,100,100,4950,4950,,0.0
+GREMLIN,3l1x_8ss1_aligned,100,73,3655,2628,15.0,
+MSA Transformer,3l1x_8ss1_aligned,100,100,4950,4950,,0.0
+GREMLIN,3l1x_8vrc_aligned,100,77,4371,2926,105.0,
+MSA Transformer,3l1x_8vrc_aligned,100,100,4950,4950,,0.0
+GREMLIN,4g69_1c7m_aligned,100,94,4656,4371,14220.0,
+MSA Transformer,4g69_1c7m_aligned,100,100,4950,4950,,0.0
+GREMLIN,4g69_3l1x_aligned,100,67,2850,2211,9615.0,
+MSA Transformer,4g69_3l1x_aligned,100,100,4950,4950,,0.0
+GREMLIN,4g69_4uz2_aligned,100,42,946,861,22702.0,
+MSA Transformer,4g69_4uz2_aligned,100,100,4950,4950,,0.0
+GREMLIN,4g69_5aim_aligned,100,85,4278,3570,109.0,
+MSA Transformer,4g69_5aim_aligned,100,100,4950,4950,,0.0
+GREMLIN,4g69_6ls1_aligned,100,87,4278,3741,1811.0,
+MSA Transformer,4g69_6ls1_aligned,100,100,4950,4950,,0.0
+GREMLIN,4g69_7qdv_aligned,100,92,4278,4186,182.0,
+MSA Transformer,4g69_7qdv_aligned,100,100,4950,4950,,0.0
+GREMLIN,4g69_7y8h_aligned,100,86,4278,3655,6802.0,
+MSA Transformer,4g69_7y8h_aligned,100,100,4950,4950,,0.0
+GREMLIN,4g69_8ss1_aligned,100,73,3655,2628,15.0,
+MSA Transformer,4g69_8ss1_aligned,100,100,4950,4950,,0.0
+GREMLIN,4g69_8vrc_aligned,100,77,4371,2926,105.0,
+MSA Transformer,4g69_8vrc_aligned,100,100,4950,4950,,0.0
+GREMLIN,4ga0_1de3_aligned,150,82,6105,3321,213.0,
+MSA Transformer,4ga0_1de3_aligned,150,150,11175,11175,,0.0
+GREMLIN,4ga0_1stb_aligned,150,121,8911,7260,9653.0,
+MSA Transformer,4ga0_1stb_aligned,150,150,11175,11175,,0.0
+GREMLIN,4ga0_1z6u_aligned,150,51,2346,1275,9557.0,
+MSA Transformer,4ga0_1z6u_aligned,150,150,11175,11175,,0.0
+GREMLIN,4ga0_3h3i_aligned,150,130,10878,8385,869.0,
+MSA Transformer,4ga0_3h3i_aligned,150,150,11175,11175,,0.0
+GREMLIN,4ga0_4zj9_aligned,150,108,8128,5778,7269.0,
+MSA Transformer,4ga0_4zj9_aligned,150,150,11175,11175,,0.0
+GREMLIN,4ga0_7cqf_aligned,150,69,3486,2346,13291.0,
+MSA Transformer,4ga0_7cqf_aligned,150,150,11175,11175,,0.0
+GREMLIN,4ga0_7h4z_aligned,150,89,9591,3916,976.0,
+MSA Transformer,4ga0_7h4z_aligned,150,150,11175,11175,,0.0
+GREMLIN,4ga0_7yuj_aligned,150,61,6105,1830,8333.0,
+MSA Transformer,4ga0_7yuj_aligned,150,150,11175,11175,,0.0
+GREMLIN,4ga0_8jx4_aligned,150,96,6903,4560,55.0,
+MSA Transformer,4ga0_8jx4_aligned,150,150,11175,11175,,0.0
+GREMLIN,4uz2_1c7m_aligned,100,94,4656,4371,14220.0,
+MSA Transformer,4uz2_1c7m_aligned,100,100,4950,4950,,0.0
+GREMLIN,4uz2_3l1x_aligned,100,67,2850,2211,9615.0,
+MSA Transformer,4uz2_3l1x_aligned,100,100,4950,4950,,0.0
+GREMLIN,4uz2_4g69_aligned,100,62,3828,1891,11543.0,
+MSA Transformer,4uz2_4g69_aligned,100,100,4950,4950,,0.0
+GREMLIN,4uz2_5aim_aligned,100,85,4278,3570,109.0,
+MSA Transformer,4uz2_5aim_aligned,100,100,4950,4950,,0.0
+GREMLIN,4uz2_6ls1_aligned,100,87,4278,3741,1811.0,
+MSA Transformer,4uz2_6ls1_aligned,100,100,4950,4950,,0.0
+GREMLIN,4uz2_7qdv_aligned,100,92,4278,4186,182.0,
+MSA Transformer,4uz2_7qdv_aligned,100,100,4950,4950,,0.0
+GREMLIN,4uz2_7y8h_aligned,100,86,4278,3655,6802.0,
+MSA Transformer,4uz2_7y8h_aligned,100,100,4950,4950,,0.0
+GREMLIN,4uz2_8ss1_aligned,100,73,3655,2628,15.0,
+MSA Transformer,4uz2_8ss1_aligned,100,100,4950,4950,,0.0
+GREMLIN,4uz2_8vrc_aligned,100,77,4371,2926,105.0,
+MSA Transformer,4uz2_8vrc_aligned,100,100,4950,4950,,0.0
+GREMLIN,4zj9_1de3_aligned,150,82,6105,3321,213.0,
+MSA Transformer,4zj9_1de3_aligned,150,150,11175,11175,,0.0
+GREMLIN,4zj9_1stb_aligned,150,121,8911,7260,9653.0,
+MSA Transformer,4zj9_1stb_aligned,150,150,11175,11175,,0.0
+GREMLIN,4zj9_1z6u_aligned,150,51,2346,1275,9557.0,
+MSA Transformer,4zj9_1z6u_aligned,150,150,11175,11175,,0.0
+GREMLIN,4zj9_3h3i_aligned,150,130,10878,8385,869.0,
+MSA Transformer,4zj9_3h3i_aligned,150,150,11175,11175,,0.0
+GREMLIN,4zj9_4ga0_aligned,150,53,3655,1378,1576.0,
+MSA Transformer,4zj9_4ga0_aligned,150,150,11175,11175,,0.0
+GREMLIN,4zj9_7cqf_aligned,150,69,3486,2346,13291.0,
+MSA Transformer,4zj9_7cqf_aligned,150,150,11175,11175,,0.0
+GREMLIN,4zj9_7h4z_aligned,150,89,9591,3916,976.0,
+MSA Transformer,4zj9_7h4z_aligned,150,150,11175,11175,,0.0
+GREMLIN,4zj9_7yuj_aligned,150,61,6105,1830,8333.0,
+MSA Transformer,4zj9_7yuj_aligned,150,150,11175,11175,,0.0
+GREMLIN,4zj9_8jx4_aligned,150,96,6903,4560,55.0,
+MSA Transformer,4zj9_8jx4_aligned,150,150,11175,11175,,0.0
+GREMLIN,5aim_1c7m_aligned,100,94,4656,4371,14220.0,
+MSA Transformer,5aim_1c7m_aligned,100,100,4950,4950,,0.0
+GREMLIN,5aim_3l1x_aligned,100,67,2850,2211,9615.0,
+MSA Transformer,5aim_3l1x_aligned,100,100,4950,4950,,0.0
+GREMLIN,5aim_4g69_aligned,100,62,3828,1891,11543.0,
+MSA Transformer,5aim_4g69_aligned,100,100,4950,4950,,0.0
+GREMLIN,5aim_4uz2_aligned,100,42,946,861,22702.0,
+MSA Transformer,5aim_4uz2_aligned,100,100,4950,4950,,0.0
+GREMLIN,5aim_6ls1_aligned,100,87,4278,3741,1811.0,
+MSA Transformer,5aim_6ls1_aligned,100,100,4950,4950,,0.0
+GREMLIN,5aim_7qdv_aligned,100,92,4278,4186,182.0,
+MSA Transformer,5aim_7qdv_aligned,100,100,4950,4950,,0.0
+GREMLIN,5aim_7y8h_aligned,100,86,4278,3655,6802.0,
+MSA Transformer,5aim_7y8h_aligned,100,100,4950,4950,,0.0
+GREMLIN,5aim_8ss1_aligned,100,73,3655,2628,15.0,
+MSA Transformer,5aim_8ss1_aligned,100,100,4950,4950,,0.0
+GREMLIN,5aim_8vrc_aligned,100,77,4371,2926,105.0,
+MSA Transformer,5aim_8vrc_aligned,100,100,4950,4950,,0.0
+GREMLIN,6ls1_1c7m_aligned,100,94,4656,4371,14220.0,
+MSA Transformer,6ls1_1c7m_aligned,100,100,4950,4950,,0.0
+GREMLIN,6ls1_3l1x_aligned,100,67,2850,2211,9615.0,
+MSA Transformer,6ls1_3l1x_aligned,100,100,4950,4950,,0.0
+GREMLIN,6ls1_4g69_aligned,100,62,3828,1891,11543.0,
+MSA Transformer,6ls1_4g69_aligned,100,100,4950,4950,,0.0
+GREMLIN,6ls1_4uz2_aligned,100,42,946,861,22702.0,
+MSA Transformer,6ls1_4uz2_aligned,100,100,4950,4950,,0.0
+GREMLIN,6ls1_5aim_aligned,100,85,4278,3570,109.0,
+MSA Transformer,6ls1_5aim_aligned,100,100,4950,4950,,0.0
+GREMLIN,6ls1_7qdv_aligned,100,92,4278,4186,182.0,
+MSA Transformer,6ls1_7qdv_aligned,100,100,4950,4950,,0.0
+GREMLIN,6ls1_7y8h_aligned,100,86,4278,3655,6802.0,
+MSA Transformer,6ls1_7y8h_aligned,100,100,4950,4950,,0.0
+GREMLIN,6ls1_8ss1_aligned,100,73,3655,2628,15.0,
+MSA Transformer,6ls1_8ss1_aligned,100,100,4950,4950,,0.0
+GREMLIN,6ls1_8vrc_aligned,100,77,4371,2926,105.0,
+MSA Transformer,6ls1_8vrc_aligned,100,100,4950,4950,,0.0
+GREMLIN,7cqf_1de3_aligned,150,82,6105,3321,213.0,
+MSA Transformer,7cqf_1de3_aligned,150,150,11175,11175,,0.0
+GREMLIN,7cqf_1stb_aligned,150,121,8911,7260,9653.0,
+MSA Transformer,7cqf_1stb_aligned,150,150,11175,11175,,0.0
+GREMLIN,7cqf_1z6u_aligned,150,51,2346,1275,9557.0,
+MSA Transformer,7cqf_1z6u_aligned,150,150,11175,11175,,0.0
+GREMLIN,7cqf_3h3i_aligned,150,130,10878,8385,869.0,
+MSA Transformer,7cqf_3h3i_aligned,150,150,11175,11175,,0.0
+GREMLIN,7cqf_4ga0_aligned,150,53,3655,1378,1576.0,
+MSA Transformer,7cqf_4ga0_aligned,150,150,11175,11175,,0.0
+GREMLIN,7cqf_4zj9_aligned,150,108,8128,5778,7269.0,
+MSA Transformer,7cqf_4zj9_aligned,150,150,11175,11175,,0.0
+GREMLIN,7cqf_7h4z_aligned,150,89,9591,3916,976.0,
+MSA Transformer,7cqf_7h4z_aligned,150,150,11175,11175,,0.0
+GREMLIN,7cqf_7yuj_aligned,150,61,6105,1830,8333.0,
+MSA Transformer,7cqf_7yuj_aligned,150,150,11175,11175,,0.0
+GREMLIN,7cqf_8jx4_aligned,150,96,6903,4560,55.0,
+MSA Transformer,7cqf_8jx4_aligned,150,150,11175,11175,,0.0
+GREMLIN,7h4z_1de3_aligned,150,82,6105,3321,213.0,
+MSA Transformer,7h4z_1de3_aligned,150,150,11175,11175,,0.0
+GREMLIN,7h4z_1stb_aligned,150,121,8911,7260,9653.0,
+MSA Transformer,7h4z_1stb_aligned,150,150,11175,11175,,0.0
+GREMLIN,7h4z_1z6u_aligned,150,51,2346,1275,9557.0,
+MSA Transformer,7h4z_1z6u_aligned,150,150,11175,11175,,0.0
+GREMLIN,7h4z_3h3i_aligned,150,130,10878,8385,869.0,
+MSA Transformer,7h4z_3h3i_aligned,150,150,11175,11175,,0.0
+GREMLIN,7h4z_4ga0_aligned,150,53,3655,1378,1576.0,
+MSA Transformer,7h4z_4ga0_aligned,150,150,11175,11175,,0.0
+GREMLIN,7h4z_4zj9_aligned,150,108,8128,5778,7269.0,
+MSA Transformer,7h4z_4zj9_aligned,150,150,11175,11175,,0.0
+GREMLIN,7h4z_7cqf_aligned,150,69,3486,2346,13291.0,
+MSA Transformer,7h4z_7cqf_aligned,150,150,11175,11175,,0.0
+GREMLIN,7h4z_7yuj_aligned,150,61,6105,1830,8333.0,
+MSA Transformer,7h4z_7yuj_aligned,150,150,11175,11175,,0.0
+GREMLIN,7h4z_8jx4_aligned,150,96,6903,4560,55.0,
+MSA Transformer,7h4z_8jx4_aligned,150,150,11175,11175,,0.0
+GREMLIN,7qdv_1c7m_aligned,100,94,4656,4371,14220.0,
+MSA Transformer,7qdv_1c7m_aligned,100,100,4950,4950,,0.0
+GREMLIN,7qdv_3l1x_aligned,100,67,2850,2211,9615.0,
+MSA Transformer,7qdv_3l1x_aligned,100,100,4950,4950,,0.0
+GREMLIN,7qdv_4g69_aligned,100,62,3828,1891,11543.0,
+MSA Transformer,7qdv_4g69_aligned,100,100,4950,4950,,0.0
+GREMLIN,7qdv_4uz2_aligned,100,42,946,861,22702.0,
+MSA Transformer,7qdv_4uz2_aligned,100,100,4950,4950,,0.0
+GREMLIN,7qdv_5aim_aligned,100,85,4278,3570,109.0,
+MSA Transformer,7qdv_5aim_aligned,100,100,4950,4950,,0.0
+GREMLIN,7qdv_6ls1_aligned,100,87,4278,3741,1811.0,
+MSA Transformer,7qdv_6ls1_aligned,100,100,4950,4950,,0.0
+GREMLIN,7qdv_7y8h_aligned,100,86,4278,3655,6802.0,
+MSA Transformer,7qdv_7y8h_aligned,100,100,4950,4950,,0.0
+GREMLIN,7qdv_8ss1_aligned,100,73,3655,2628,15.0,
+MSA Transformer,7qdv_8ss1_aligned,100,100,4950,4950,,0.0
+GREMLIN,7qdv_8vrc_aligned,100,77,4371,2926,105.0,
+MSA Transformer,7qdv_8vrc_aligned,100,100,4950,4950,,0.0
+GREMLIN,7y8h_1c7m_aligned,100,94,4656,4371,14220.0,
+MSA Transformer,7y8h_1c7m_aligned,100,100,4950,4950,,0.0
+GREMLIN,7y8h_3l1x_aligned,100,67,2850,2211,9615.0,
+MSA Transformer,7y8h_3l1x_aligned,100,100,4950,4950,,0.0
+GREMLIN,7y8h_4g69_aligned,100,62,3828,1891,11543.0,
+MSA Transformer,7y8h_4g69_aligned,100,100,4950,4950,,0.0
+GREMLIN,7y8h_4uz2_aligned,100,42,946,861,22702.0,
+MSA Transformer,7y8h_4uz2_aligned,100,100,4950,4950,,0.0
+GREMLIN,7y8h_5aim_aligned,100,85,4278,3570,109.0,
+MSA Transformer,7y8h_5aim_aligned,100,100,4950,4950,,0.0
+GREMLIN,7y8h_6ls1_aligned,100,87,4278,3741,1811.0,
+MSA Transformer,7y8h_6ls1_aligned,100,100,4950,4950,,0.0
+GREMLIN,7y8h_7qdv_aligned,100,92,4278,4186,182.0,
+MSA Transformer,7y8h_7qdv_aligned,100,100,4950,4950,,0.0
+GREMLIN,7y8h_8ss1_aligned,100,73,3655,2628,15.0,
+MSA Transformer,7y8h_8ss1_aligned,100,100,4950,4950,,0.0
+GREMLIN,7y8h_8vrc_aligned,100,77,4371,2926,105.0,
+MSA Transformer,7y8h_8vrc_aligned,100,100,4950,4950,,0.0
+GREMLIN,7yuj_1de3_aligned,150,82,6105,3321,213.0,
+MSA Transformer,7yuj_1de3_aligned,150,150,11175,11175,,0.0
+GREMLIN,7yuj_1stb_aligned,150,121,8911,7260,9653.0,
+MSA Transformer,7yuj_1stb_aligned,150,150,11175,11175,,0.0
+GREMLIN,7yuj_1z6u_aligned,150,51,2346,1275,9557.0,
+MSA Transformer,7yuj_1z6u_aligned,150,150,11175,11175,,0.0
+GREMLIN,7yuj_3h3i_aligned,150,130,10878,8385,869.0,
+MSA Transformer,7yuj_3h3i_aligned,150,150,11175,11175,,0.0
+GREMLIN,7yuj_4ga0_aligned,150,53,3655,1378,1576.0,
+MSA Transformer,7yuj_4ga0_aligned,150,150,11175,11175,,0.0
+GREMLIN,7yuj_4zj9_aligned,150,108,8128,5778,7269.0,
+MSA Transformer,7yuj_4zj9_aligned,150,150,11175,11175,,0.0
+GREMLIN,7yuj_7cqf_aligned,150,69,3486,2346,13291.0,
+MSA Transformer,7yuj_7cqf_aligned,150,150,11175,11175,,0.0
+GREMLIN,7yuj_7h4z_aligned,150,89,9591,3916,976.0,
+MSA Transformer,7yuj_7h4z_aligned,150,150,11175,11175,,0.0
+GREMLIN,7yuj_8jx4_aligned,150,96,6903,4560,55.0,
+MSA Transformer,7yuj_8jx4_aligned,150,150,11175,11175,,0.0
+GREMLIN,8jx4_1de3_aligned,150,82,6105,3321,213.0,
+MSA Transformer,8jx4_1de3_aligned,150,150,11175,11175,,0.0
+GREMLIN,8jx4_1stb_aligned,150,121,8911,7260,9653.0,
+MSA Transformer,8jx4_1stb_aligned,150,150,11175,11175,,0.0
+GREMLIN,8jx4_1z6u_aligned,150,51,2346,1275,9557.0,
+MSA Transformer,8jx4_1z6u_aligned,150,150,11175,11175,,0.0
+GREMLIN,8jx4_3h3i_aligned,150,130,10878,8385,869.0,
+MSA Transformer,8jx4_3h3i_aligned,150,150,11175,11175,,0.0
+GREMLIN,8jx4_4ga0_aligned,150,53,3655,1378,1576.0,
+MSA Transformer,8jx4_4ga0_aligned,150,150,11175,11175,,0.0
+GREMLIN,8jx4_4zj9_aligned,150,108,8128,5778,7269.0,
+MSA Transformer,8jx4_4zj9_aligned,150,150,11175,11175,,0.0
+GREMLIN,8jx4_7cqf_aligned,150,69,3486,2346,13291.0,
+MSA Transformer,8jx4_7cqf_aligned,150,150,11175,11175,,0.0
+GREMLIN,8jx4_7h4z_aligned,150,89,9591,3916,976.0,
+MSA Transformer,8jx4_7h4z_aligned,150,150,11175,11175,,0.0
+GREMLIN,8jx4_7yuj_aligned,150,61,6105,1830,8333.0,
+MSA Transformer,8jx4_7yuj_aligned,150,150,11175,11175,,0.0
+GREMLIN,8ss1_1c7m_aligned,100,94,4656,4371,14220.0,
+MSA Transformer,8ss1_1c7m_aligned,100,100,4950,4950,,0.0
+GREMLIN,8ss1_3l1x_aligned,100,67,2850,2211,9615.0,
+MSA Transformer,8ss1_3l1x_aligned,100,100,4950,4950,,0.0
+GREMLIN,8ss1_4g69_aligned,100,62,3828,1891,11543.0,
+MSA Transformer,8ss1_4g69_aligned,100,100,4950,4950,,0.0
+GREMLIN,8ss1_4uz2_aligned,100,42,946,861,22702.0,
+MSA Transformer,8ss1_4uz2_aligned,100,100,4950,4950,,0.0
+GREMLIN,8ss1_5aim_aligned,100,85,4278,3570,109.0,
+MSA Transformer,8ss1_5aim_aligned,100,100,4950,4950,,0.0
+GREMLIN,8ss1_6ls1_aligned,100,87,4278,3741,1811.0,
+MSA Transformer,8ss1_6ls1_aligned,100,100,4950,4950,,0.0
+GREMLIN,8ss1_7qdv_aligned,100,92,4278,4186,182.0,
+MSA Transformer,8ss1_7qdv_aligned,100,100,4950,4950,,0.0
+GREMLIN,8ss1_7y8h_aligned,100,86,4278,3655,6802.0,
+MSA Transformer,8ss1_7y8h_aligned,100,100,4950,4950,,0.0
+GREMLIN,8ss1_8vrc_aligned,100,77,4371,2926,105.0,
+MSA Transformer,8ss1_8vrc_aligned,100,100,4950,4950,,0.0
+GREMLIN,8vrc_1c7m_aligned,100,94,4656,4371,14220.0,
+MSA Transformer,8vrc_1c7m_aligned,100,100,4950,4950,,0.0
+GREMLIN,8vrc_3l1x_aligned,100,67,2850,2211,9615.0,
+MSA Transformer,8vrc_3l1x_aligned,100,100,4950,4950,,0.0
+GREMLIN,8vrc_4g69_aligned,100,62,3828,1891,11543.0,
+MSA Transformer,8vrc_4g69_aligned,100,100,4950,4950,,0.0
+GREMLIN,8vrc_4uz2_aligned,100,42,946,861,22702.0,
+MSA Transformer,8vrc_4uz2_aligned,100,100,4950,4950,,0.0
+GREMLIN,8vrc_5aim_aligned,100,85,4278,3570,109.0,
+MSA Transformer,8vrc_5aim_aligned,100,100,4950,4950,,0.0
+GREMLIN,8vrc_6ls1_aligned,100,87,4278,3741,1811.0,
+MSA Transformer,8vrc_6ls1_aligned,100,100,4950,4950,,0.0
+GREMLIN,8vrc_7qdv_aligned,100,92,4278,4186,182.0,
+MSA Transformer,8vrc_7qdv_aligned,100,100,4950,4950,,0.0
+GREMLIN,8vrc_7y8h_aligned,100,86,4278,3655,6802.0,
+MSA Transformer,8vrc_7y8h_aligned,100,100,4950,4950,,0.0
+GREMLIN,8vrc_8ss1_aligned,100,73,3655,2628,15.0,
+MSA Transformer,8vrc_8ss1_aligned,100,100,4950,4950,,0.0

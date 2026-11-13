@@ -1,0 +1,10 @@
+separation,metric,defined,donor_greater,query_greater,equal
+6,ordinary_jaccard,362,362,0,0
+6,pearson_all_eligible,362,362,0,0
+6,pearson_union_top_L,362,362,0,0
+12,ordinary_jaccard,362,362,0,0
+12,pearson_all_eligible,362,362,0,0
+12,pearson_union_top_L,362,362,0,0
+24,ordinary_jaccard,362,362,0,0
+24,pearson_all_eligible,362,362,0,0
+24,pearson_union_top_L,362,362,0,0

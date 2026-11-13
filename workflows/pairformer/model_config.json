@@ -1,0 +1,16 @@
+{
+  "source_commit": "875363570df1ae484cf725aba382790444223005",
+  "weights_revision": "14cdef72a2059ef022cd86c818ddc96ec091a6be",
+  "weights_repo_directory": "models--yakiyama--MSA-Pairformer",
+  "weights_sha256": {
+    "model_cuex.bin": "a52b49ad10022ea52731d296ca34c41d0970f507c6de491e779f4f616798208c",
+    "contact.bin": "e8afc7d99fa6f4caa20a7b9ad20f998e0038c226270535562ade165d1176ffbb",
+    "confind_contact.bin": "80c09c664a6542d5a326309cc1b1dd7901bcffda0723d4b95d8c94db358bb657"
+  },
+  "max_depth": 512,
+  "seed": 42,
+  "precision": "bfloat16",
+  "query_biasing": false,
+  "sequence_weighting": "uniform",
+  "head": "cb"
+}

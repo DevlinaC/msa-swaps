@@ -1,0 +1,10 @@
+{
+  "control_max_abs_difference": 0.0,
+  "job_id": "35667433",
+  "new": 396,
+  "previously_complete": 0,
+  "reused_pilot": 0,
+  "run_fingerprint": "c95936bdf56d0292869c0cf641be72bf733f8e427a751f318bae1e03871c59e4",
+  "seconds": 47.64948980200006,
+  "validated": 396
+}

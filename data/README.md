@@ -1,0 +1,13 @@
+# Data in this draft
+
+This guide describes the **complete local package**. A GitHub checkout includes a [minimal set of JSON inputs and provenance](../provenance/README.md#json-files-eligible-for-git), but the current upload rules omit bulk records and several required scientific tables, so it cannot run all documented reproduction commands on its own. Approved data-download links are not yet available. See [temporary exclusions and release status](../docs/PUBLISHING.md#temporary-exclusions-before-deciding-what-to-share) before following the [quick start](../README.md#quick-start-reproduce-from-the-complete-local-package).
+
+`publication/S1` contains saved TM-score matrices, target metadata and cartoon renders. `publication/S2` contains GREMLIN and MSA Transformer comparison tables. `publication/S3` contains Pearson comparison tables and selected pairs. `publication/S4` contains primary and sensitivity comparisons, selection/mapping/input audits and selected-pair records. S4 plotting filters the primary top-L records explicitly. `publication/Table_S1` contains the current target table, sequences, coordinate files and CATH/ECOD annotation provenance. ECOD annotations are PDB-entry matches, not validated chain/domain assignments.
+
+`workflows/pairformer/` contains all 396 selected input alignments and all 396 contact matrices (NumPy and equivalent CSV), alongside metadata and comparison tables. Matrices contain continuous predicted contact scores, not measured distances or experimental contacts. Use the saved donor mappings rather than comparing differently indexed matrices elementwise.
+
+`workflows/chimera/` contains all 50 prediction summary records and representative model coordinates/renders. Full raw ensemble inputs and the NMR dataset are external.
+
+`targets.csv`, `results/`, `examples/` and `validation/` retain the October compact package unchanged locally to support historical overlap checks. These legacy paths are excluded from Git; use the complete local package to run the historical demo scripts. In particular, the >0.75 summaries and fixed-100 GREMLIN examples are not current manuscript summaries. Use `publication/Table_S1/table_S1.csv` for the updated annotations.
+
+Import hashes and source paths are in `../provenance/import_manifest_20261113.json`. Absolute paths within historical metadata identify original execution locations; they are not required by the portable plotting commands. Full AF ensembles and the complete raw GREMLIN/MSA Transformer datasets will need a durable versioned archive and checksums before publication. No download URL has been invented for that archive.

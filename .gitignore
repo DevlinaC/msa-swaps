@@ -1,0 +1,96 @@
+# Local environments, dependencies and caches
+.venv/
+.venv-*/
+venv/
+env/
+envs/
+ENV/
+.conda/
+.mamba/
+.pixi/
+node_modules/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.cache/
+
+# Local configuration and credentials
+.env
+.env.*
+*.pem
+*.key
+
+# Exclude JSON by default; only the reviewed minimum below is eligible.
+# Other scientific records remain local pending a versioned data archive.
+*.json
+*.jsonl
+*.json5
+
+# Bulk contact matrices and compressed CSV data pending data-release review.
+# Small individual matrix CSVs collectively form a large dataset.
+full_contacts.csv
+*.csv.gz
+*.csv.zip
+
+# Generated outputs, editor state and scheduler logs
+outputs/
+.DS_Store
+*.swp
+*.swo
+.Rhistory
+.RData
+slurm-*.out
+slurm-*.err
+
+# CSV files >= 1 MiB in the current draft (reviewed 2026-11-13).
+# Git cannot ignore by file size: these are explicit paths, not a size rule.
+# Revisit this list when adding data. Small summary/metadata CSVs remain eligible.
+/data/publication/S3/comparisons.csv
+/data/publication/S4/comparisons.csv
+/data/publication/S4/comparisons_with_input_flags.csv
+/data/publication/structure_scores/af2_tmalign_records.csv
+/data/publication/structure_scores/af3_saved_scores_with_links.csv
+/data/publication/structure_scores/derived/swapped_comparisons.csv
+/data/publication/structure_scores/derived/swapped_predictions.csv
+
+# Historical/demo material retained locally, excluded from the GitHub draft.
+# Keep current scientific source snapshots and editable structure assets eligible.
+/docs/historical_20261030/
+/plots/
+/data/targets.csv
+/data/results/
+/data/examples/
+/data/validation/
+/docs/MSA_Swap_story.png
+/docs/lydia_poster.pptx
+/docs/collaborator_data_request_20261112.md
+/docs/repository_update_checklist_20261112.md
+/workflows/chimera/provenance/imported_readmes/
+/workflows/chimera/Figure_S7.pdf
+/workflows/chimera/Figure_S7.png
+/workflows/chimera/Figure_S7.svg
+/workflows/chimera/Figure_S7_legend.md
+/workflows/chimera/Panel_A_construct/Figure_S7A.*
+/workflows/chimera/Panel_B_structures/Figure_S7B.*
+/workflows/chimera/Panel_C_results/Figure_S7C.*
+
+# Minimum JSON inputs/validation plus Figure 1 provenance (15 files).
+# Scope and remaining data dependencies: provenance/README.md.
+!/data/publication/S2/GREMLIN/COMPLETE.json
+!/data/publication/S2/GREMLIN/provenance.json
+!/data/publication/S2/MSA_Transformer/COMPLETE.json
+!/data/publication/S2/MSA_Transformer/provenance.json
+!/data/publication/S3/COMPLETE.json
+!/data/publication/S3/provenance.json
+!/figures/Figure_1/provenance.json
+!/provenance/protected_data_sha256.json
+!/workflows/chimera/data/models.json
+!/workflows/chimera/data/summary.json
+!/workflows/pairformer/figure_palette.json
+!/workflows/pairformer/model_config.json
+!/workflows/pairformer/results/INFERENCE_COMPLETE.json
+!/workflows/pairformer/results/analysis/VALIDATED.json
+!/workflows/pairformer/results/rank_tolerant/VALIDATED.json

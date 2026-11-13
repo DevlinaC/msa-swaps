@@ -1,0 +1,26 @@
+pdb_id,chain_id,domain_id,cath_code,topology,superfamily,residue_ranges
+2JVV,A,2jvvA00,2.30.30.30,SH3 type barrels.,Transcription antitermination protein nusg. Chain: a. Engineered: yes,123-181
+1GB1,A,1gb1A00,3.10.20.10,Ubiquitin-like (UB roll),Protein g. Chain: a. Engineered: yes,1-56
+4GA0,A,4ga0A00,1.25.40.10,"Serine Threonine Protein Phosphatase 5, Tetratricopeptide repeat","E3 sumo-protein ligase ranbp2. Chain: a. Fragment: unp residues 1-145.Synonym: 358 kda nucleoporin, nuclear pore complex protein nup358, nucleoporin nup358, ran-binding protein 2, ranbp2, p270, putative peptidyl-prolyl cis-trans isomerase, ppiase, rotamase. Engineered: yes",1-143
+1C7M,A,1c7mA00,1.10.760.10,"Cytochrome Bc1 Complex; Chain D, domain 2",Protein (cytochrome c552). Chain: a. Fragment: soluble functional domain. Engineered: yes. Other_details: covalent thioether linkages from heme cofactor to both cys14 and cys17,1-100
+1DE3,A,1de3A00,3.10.450.30,"Nuclear Transport Factor 2; Chain: A,",Ribonuclease alpha-sarcin. Chain: a. Engineered: yes,1-150
+3H3I,A,3h3iA00,2.40.128.220,Lipocalin,"Putative lipid binding protein. Chain: a, b, c. Engineered: yes",29-166
+3H3I,B,3h3iB00,2.40.128.220,Lipocalin,"Putative lipid binding protein. Chain: a, b, c. Engineered: yes",29-166
+3H3I,C,3h3iC00,2.40.128.220,Lipocalin,"Putative lipid binding protein. Chain: a, b, c. Engineered: yes",29-166
+1CQU,A,1cquA00,3.40.5.10,Ribosomal Protein L9; domain 1,50s ribosomal protein l9. Chain: a. Fragment: n-terminal domain,1-56
+1BOR,A,1borA00,3.30.40.10,Herpes Virus-1,"Transcription factor pml. Chain: a. Fragment: ring finger domain, residues 49 - 104. Engineered: yes",1-56
+1DTK,A,1dtkA00,4.10.410.10,Factor Xa Inhibitor,Dendrotoxin k. Chain: a. Engineered: yes,1-57
+1BW6,A,1bw6A00,1.10.10.60,"Arc Repressor Mutant, subunit A",Protein (centromere protein b). Chain: a. Fragment: DNA-binding domain. Engineered: yes,1-56
+1H7V,A,1h7vA00,2.20.28.10,"Rubrerythrin, domain 2",Rubredoxin. Chain: a. Engineered: yes,1-60
+1VEX,A,1vexA00,2.20.100.10,TSP-1 type 1 repeat,F-spondin. Chain: a. Fragment: f-spondin tsr domain 4. Engineered: yes,611-666
+1STB,A,1stbA00,2.40.50.90,"OB fold (Dihydrolipoamide Acetyltransferase, E2P)",Staphylococcal nuclease. Chain: a. Engineered: yes,6-141
+2FS1,A,2fs1A00,1.10.8.40,"Helicase, Ruva Protein; domain 3",Psd-1. Chain: a. Engineered: yes,1-56
+2OVO,A,2ovoA00,3.30.60.30,Wheat Germ Agglutinin (Isolectin 2); domain 1,Ovomucoid third domain. Chain: a. Engineered: yes,1-56
+4ZJ9,A,4zj9A00,2.60.40.790,Immunoglobulin-like,Aggregation suppressing protein. Chain: a. Fragment: unp residues 12-147. Engineered: yes,40-132
+2K9H,A,2k9hA00,1.10.8.1320,"Helicase, Ruva Protein; domain 3",Glycoprotein. Chain: a. Engineered: yes,43-99
+2MM4,A,2mm4A00,6.10.250.1810,Single alpha-helices involved in coiled-coils or other helix-helix interfaces,"Envelope small membrane protein. Chain: a. Fragment: unp residues 8-65. Synonym: e protein, sm protein. Engineered: yes. Mutation: yes",8-65
+4G69,A,4g69A00,2.30.42.10,Pdz3 Domain,"Disks large homolog 1. Chain: a. Fragment: pdz2, unp residues 310-407.Synonym: synapse-associated protein 97, sap-97, sap97, hdlg. Engineered: yes. Adenomatous polyposis coli protein. Chain: b. Fragment: apc c-terminal peptide, unp residues 2833-2843. Synonym: protein apc, deleted in polyposis 2.5. Engineered: yes",310-406
+1FEX,A,1fexA00,1.10.10.60,"Arc Repressor Mutant, subunit A",Trf2-interacting telomeric rap1 protein. Chain: a. Fragment: myb-domain. Engineered: yes. Mutation: yes,1-59
+1Z6U,A,1z6uA00,3.30.40.10,Herpes Virus-1,"Np95-like ring finger protein isoform b. Chain: a, b. Fragment: ring zinc finger, residues 672-802. Engineered: yes",688-802
+1Z6U,B,1z6uB00,3.30.40.10,Herpes Virus-1,"Np95-like ring finger protein isoform b. Chain: a, b. Fragment: ring zinc finger, residues 672-802. Engineered: yes",688-802
+3L1X,A,3l1xA01,3.30.40.10,Herpes Virus-1,"Ubiquitin conjugation factor e4 b. Chain: a. Fragment: u box domain, residues 1208-1302. Synonym: ubiquitin fusion degradation protein 2, homozygously deleted in neuroblastoma 1. Engineered: yes",1227-1298

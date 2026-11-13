@@ -1,0 +1,5 @@
+-r requirements.txt
+# Packaging environment has Biopython 1.78; raw structure reanalysis was not rerun.
+biopython==1.78
+# PyMOL and tmtools are additionally required for re-rendering/re-alignment.
+# See preserved run provenance for the original structural-analysis environment.
